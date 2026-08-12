@@ -1,0 +1,824 @@
+1. DESPRE ROLEPLAY (RP):
+Roleplay-ul, abreviat RP, reprezintă simularea unei vieți reale într-un mediu virtual. Pe serverul PRO4KINGS, fiecare jucător își creează și interpretează propriul personaj, având o identitate, o înfățișare, o personalitate și un rol bine definite.
+Acțiunile și comportamentul personajului trebuie să fie logice, realiste și adaptate situațiilor întâlnite. Fiecare jucător are obligația de a respecta regulamentul serverului, rolul ales și dreptul celorlalți participanți de a contribui la desfășurarea situațiilor Roleplay.
+Scopul Roleplay-ului este crearea unor interacțiuni realiste, coerente și plăcute pentru întreaga comunitate.
+2. DESPRE IN-CHARACTER (IC):
+In-Character, abreviat IC, reprezintă toate acțiunile, informațiile și interacțiunile desfășurate în joc, din perspectiva personajului interpretat.
+Jucătorii au obligația de a utiliza în IC doar informațiile obținute în mod direct în cadrul serverului, prin acțiuni Roleplay și prin canalele de comunicare disponibile în joc.
+Folosirea informațiilor obținute din afara jocului, precum conversații externe, transmisiuni live sau alte surse OOC, este strict interzisă.
+3. DESPRE OUT-OF-CHARACTER (OOC):
+Out of Character, abreviat OOC, reprezintă toate informațiile, acțiunile și conversațiile care nu țin de personajul interpretat sau de mediul Roleplay al serverului.
+Discuțiile OOC sunt permise doar în spațiile special destinate, precum chatul OOC sau în cadrul ticketelor. Acestea nu trebuie să influențeze în niciun fel acțiunile sau informațiile In-Character.
+Folosirea informațiilor OOC pentru obținerea unui avantaj IC este strict interzisă.
+4. NU FACETI FAIL ROLEPLAY (FRP):
+Fail Roleplay, abreviat FRP, reprezintă orice acțiune nerealistă, lipsită de logică sau care nu reflectă comportamentul pe care o persoană l-ar avea într-o situație similară din viața reală.
+Jucătorii au obligația de a se adapta situațiilor Roleplay și de a acționa într-un mod logic și coerent. Orice acțiune care încalcă logica jocului, bunul-simț sau realismul poate fi considerată Fail Roleplay, chiar dacă situația respectivă nu este menționată în mod explicit în regulament.
+
+ATENȚIE: Bunurile și serviciile ilegale pot fi promovate exclusiv prin intermediul anunțurilor Dark Web. Folosirea anunțurilor comerciale pentru vânzarea sau cumpărarea bunurilor ilegale, inclusiv prin mesaje mascate sau codificate, este interzisă.
+Exemple:
+
+➤ Vânzarea sau cumpărarea bunurilor ilegale în zone publice și intens circulate, precum Primăria, CNN, Spitalul, Târgul Auto etc.
+
+➤ Publicarea unor anunțuri comerciale mascate pentru bunuri ilegale, precum: „Vând PCP-uri”, „Vând monede de ciocolată” sau „Vând jucării”.
+
+➤ Răpirea negociatorului trimis pentru eliberarea unui polițist sau a unui alt ostatic.
+
+➤ Batjocura, insultarea sau fotografierea unei persoane aflate în comă, fără un scop Roleplay justificat.
+
+➤ Atragerea polițiștilor într-o zonă rău-famată pentru a-i ataca, fără un motiv Roleplay întemeiat, de exemplu, din cauza unei simple amenzi de circulație.
+
+➤ Părăsirea locului unui accident fără a desfășura un minim de Roleplay cu persoanele implicate.
+5. NU FACETI META GAMING (MG):
+Meta Gaming, abreviat MG, reprezintă folosirea informațiilor obținute din afara jocului (OOC) în cadrul unor acțiuni sau decizii luate în joc (IC).
+Jucătorii au obligația de a obține și de a utiliza informațiile IC exclusiv prin mijloacele disponibile în joc, precum telefonul, mesajele sau stația radio. Coordonarea prin Discord, partajarea ecranului, transmisiuni live sau alte mijloace externe sunt strict interzise în timpul acțiunilor Roleplay.
+Recunoașterea unei persoane exclusiv după voce este interzisă atunci când aceasta poartă mască, indiferent de facțiunea din care face parte. Recunoașterea după trăsături fizice sau semne distinctive este permisă numai dacă acestea sunt vizibile și au fost cunoscute anterior în mod IC.
+Exemple:
+
+➤ Comunicarea și coordonarea pe Discord în timpul unui jaf, în locul folosirii stației din joc.
+
+➤ Partajarea ecranului sau transmiterea locației pe Discord în timp ce ești răpit, pentru ca un alt jucător să anunțe Poliția sau să intervină.
+
+➤ Folosirea unei informații aflate OOC pentru identificarea și eliminarea unui polițist sub acoperire sau pentru excluderea acestuia dintr-o organizație.
+
+➤ Folosirea, divulgarea sau vânzarea unei locații ilegale aflate prin Discord, transmisiuni live ori alte surse externe.
+6. NU FACETI MIXING:
+Mixing, abreviat MX, reprezintă amestecarea informațiilor, acțiunilor sau conversațiilor In-Character (IC) cu cele Out of Character (OOC).
+Transmiterea informațiilor IC prin canale OOC, precum chatul global, Free Chat, Discord sau alte platforme externe, este interzisă.
+Informațiile și acțiunile IC trebuie transmise exclusiv prin mijloacele disponibile în joc, precum telefonul, mesajele sau stația radio.
+NOTĂ: Mixing-ul care influențează desfășurarea unei acțiuni Roleplay sau oferă un avantaj unui jucător va fi sancționat mai sever.
+Exemple:
+
+➤ Te afli la secția de Poliție și folosești chatul OOC sau Discord pentru a chema un jucător să vină să te ia.
+
+➤ Folosești chatul OOC, Free Chat-ul sau Discord pentru a vinde ori cumpăra obiecte din joc.
+
+➤ Comunici pe un canal OOC informații despre locația, starea sau acțiunile personajului tău.
+
+➤ Transmiți prin Voice Chat informații OOC în timpul unei acțiuni Roleplay. (Deschidere OOC)
+7. NU FACETI POWERGAMING (PG):
+Power Gaming, abreviat PG, reprezintă impunerea unor acțiuni asupra altui jucător fără a-i oferi posibilitatea de a reacționa, precum și realizarea unor acțiuni exagerate, imposibile sau nerealiste.
+Fiecare jucător trebuie să le ofere celorlalți participanți șanse egale de a răspunde și de a contribui la desfășurarea situației Roleplay.
+DE REȚINUT: Chiar dacă sistemul jocului aplică automat anumite efecte în urma accidentelor, jucătorii sunt în continuare obligați să interpreteze în mod realist rănile și consecințele acestora.
+Exemple:
+
+➤ Împingerea unui TIR.
+
+➤ Scoaterea unei arme de calibru mare fără a avea o geantă.
+
+➤ Scoaterea a mai mult de două arme de calibru mare dintr-o singură geantă în cadrul unei situații Roleplay.
+
+➤ Găsirea unei arme de calibru mare asupra unei persoane care nu deține o geantă.
+
+➤ Blocarea intenționată de către Poliție a ieșirii dintr-o bancă, astfel încât jefuitorii să nu aibă nicio posibilitate de a părăsi locația.
+
+➤ Continuarea alergării sau a deplasării normale imediat după ce ai fost lovit grav de un vehicul.
+
+➤ Folosirea armelor, telefonului sau stației după ce acestea au fost confiscate printr-o acțiune /me.
+
+➤ Folosirea informațiilor auzite în timp ce personajul se afla în comă.
+
+➤ Efectuarea unui job ilegal în condițiile în care obiectele colectate sau transportate nu pot fi identificate ori găsite asupra personajului, din cauza lipsei unei genți, a unui vehicul adecvat sau a unui alt mijloc realist de depozitare.
+
+➤ Mutarea de pe scaunul din față pe cel din spate al unui vehicul fără realizarea unei acțiuni /me.
+
+➤ Aruncarea obiectelor ilegale în timpul unui control sau al unei urmăriri pentru ca acestea să nu mai poată fi găsite, deși polițiștii au observat acțiunea.
+
+➤ Săritul în apă în timpul unei urmăriri doar pentru a face imposibilă prinderea personajului.
+
+➤ Înotul pentru o perioadă îndelungată fără a interpreta oboseala.
+
+➤ Vorbirea în timp ce personajul este mort sau reacționarea la informațiile transmise de o persoană moartă. (Jucătorii începători nu vor fi sancționați pentru vorbirea în stare de inconștiență înainte de verificarea setării „Voice Activated”)
+8. NU FACETI NON-FEAR (NF):
+Non-Fear, abreviat NF, desemnează situațiile în care un jucător nu simulează corect și realist sentimentul de frică, atunci când circumstanțele o impun.
+Jucătorii sunt obligați să își protejeze viața și să reacționeze într-un mod realist atunci când sunt amenințați cu o armă, înconjurați, răniți sau expuși unui pericol evident. Ignorarea unei amenințări, provocarea persoanelor înarmate sau efectuarea unor acțiuni care pun în mod nejustificat viața personajului în pericol se consideră Non-Fear.
+Non-Fear agresiv
+Apare atunci când un jucător ignoră pericolul de moarte sau de rănire și provoacă, atacă ori refuză să se conformeze unei amenințări reale.
+Non-Fear pasiv
+Apare atunci când un jucător nu tratează în mod realist consecințele legale, precum arestarea sau închisoarea, și provoacă în mod intenționat autoritățile fără un motiv Roleplay întemeiat.
+Exemple:
+
+➤ Te afli într-o zonă publică sau protejată și provoci, insulți ori ameninți alte persoane, bazându-te pe faptul că regulamentul nu le permite să te atace în acea zonă.
+
+➤ O persoană trage asupra ta, iar în loc să te îndepărtezi sau să cauți adăpost, te apropii de aceasta pentru a-i cere explicații ori pentru a-i afla ID-ul.
+
+➤ Ești amenințat cu o armă și refuzi să respecți indicațiile primite, deși persoana respectivă controlează situația.
+
+➤ În timpul unei percheziții efectuate sub amenințarea unei arme, te întorci și încerci să ataci persoana care te jefuiește.
+
+➤ Un coleg este ținut ostatic, iar tu ignori cerințele răpitorilor și desfășori acțiuni care îi pun în mod direct viața în pericol.
+
+➤ Rămâi într-o zonă în care are loc un schimb de focuri și continui să te deplasezi sau să observi situația, fără să cauți adăpost ori să părăsești zona.
+
+➤ Provoci intenționat un polițist pentru a fi arestat sau îi ceri să te trimită la închisoare, fără existența unui motiv Roleplay întemeiat.
+
+➤ Refuzi în mod repetat să cooperezi cu autoritățile doar pentru a prelungi sau batjocori situația Roleplay, fără a avea o justificare IC.
+
+➤ Soliciți pedeapsa cu închisoarea în locul unei amenzi doar pentru a provoca polițistul sau pentru a lua în derâdere consecințele legale.
+9. NU FACETI Vehicle Deathmatch (VDM):
+Vehicle Deathmatch, abreviat VDM, reprezintă folosirea intenționată a unui vehicul pentru a lovi, răni sau omorî un jucător, fără existența unui motiv Roleplay întemeiat sau a unei interacțiuni anterioare care să justifice acțiunea.
+Este considerată VDM și menținerea intenționată a vehiculului peste un jucător.
+Lovirea accidentală a unui jucător nu este considerată automat VDM, însă persoana implicată are obligația de a continua situația printr-un comportament Roleplay corespunzător.
+10. NU FACETI Random Deathmatch (RDM):
+Random Deathmatch, abreviat RDM, reprezintă atacarea, rănirea sau omorârea intenționată a unui jucător, fără existența unui motiv Roleplay întemeiat sau a unei interacțiuni anterioare care să justifice acțiunea.
+Orice atac trebuie să aibă la bază un motiv IC clar și să fie precedat de o interacțiune Roleplay corespunzătoare. Simplul fapt că un jucător te deranjează sau te provoacă verbal nu justifică automat atacarea ori omorârea acestuia.
+11. NU FACETI COP FEAR (CF):
+Cop Fear, abreviat CF, reprezintă o ramură a regulii Non-Fear și desemnează situațiile în care un jucător nu simulează în mod realist teama, prudența sau respectul față de autoritățile statului.
+Jucătorii au obligația de a adopta un comportament realist atunci când sunt opriți, reținuți, înconjurați sau amenințați de polițiști. Provocarea intenționată a autorităților, ignorarea unui pericol evident sau inițierea unui conflict fără un motiv Roleplay întemeiat se consideră Cop Fear.
+Contestarea unei amenzi, susținerea nevinovăției sau refuzul unei acuzații nu reprezintă automat Cop Fear, atât timp cât jucătorul se comportă realist și nu provoacă în mod nejustificat autoritățile. Situația va fi analizată în funcție de contextul Roleplay, pericolul existent și comportamentul persoanelor implicate.
+Exemple:
+
+➤ Te afli într-o celulă, fiind supravegheat de mai mulți agenți, și alegi să îi provoci, să îi ameninți sau să îi iei în derâdere fără un motiv Roleplay întemeiat.
+
+➤ Ești înconjurat și somat de mai mulți polițiști, dar scoți arma și încerci să îi ataci, fără a avea o posibilitate realistă de scăpare.
+
+➤ Ești oprit pentru un control de rutină și începi să ameninți sau să provoci polițistul fără existența unui motiv IC justificat.
+
+➤ Un polițist are arma îndreptată spre tine și controlează situația, iar tu scoți arma și tragi.
+12. NU FACETI COP BAIT (CB):
+Cop Bait, abreviat CB, reprezintă provocarea intenționată a Poliției prin acțiuni IC, cu scopul de a atrage atenția agenților și de a genera urmăriri, controale sau intervenții fără existența unui motiv Roleplay întemeiat.
+O abatere rutieră sau o interacțiune cu Poliția nu este considerată automat Cop Bait. Pentru încadrarea acestei reguli trebuie să existe intenția clară de a provoca autoritățile sau de a crea o urmărire doar pentru divertisment.
+Exemple:
+
+➤ Efectuezi în mod intenționat drifturi sau burnout-uri în fața secției ori în apropierea unui echipaj de Poliție, cu scopul de a provoca o intervenție.
+
+➤ Apelezi Poliția fără existența unei urgențe reale, doar pentru a induce agenții în eroare sau pentru a te amuza.
+
+➤ Încalci în mod intenționat regulile de circulație în apropierea unui echipaj de Poliție, doar pentru a determina agenții să te urmărească.
+
+➤ Provoci verbal sau urmărești în mod repetat un echipaj de Poliție pentru a-i determina pe agenți să intervină.
+13. NU FACETI TROLL:
+Troll-ul reprezintă orice comportament intenționat prin care unul sau mai mulți jucători urmăresc să deranjeze, să provoace sau să întrerupă desfășurarea normală a unei situații Roleplay, exclusiv pentru propriul amuzament.
+Jucătorii au obligația de a participa la interacțiunile de pe server într-o manieră serioasă și de a evita acțiunile lipsite de sens Roleplay, provocările repetate sau comportamentele menite să obțină reacții negative din partea celorlalți.
+Este considerat Troll și comportamentul deranjant desfășurat în Jail, precum redarea muzicii, țipetele, suflatul intenționat în microfon, spam-ul vocal sau adresarea repetată de injurii persoanelor care își ispășesc pedeapsa.
+Jucătorii aflați în Jail trebuie să păstreze un comportament civilizat și să nu perturbe experiența celorlalți. Abaterile grave sau repetate pot fi sancționate inclusiv cu ban permanent.
+14. DESPRE PLAYER-KILL (PK):
+Player Kill, abreviat PK, reprezintă pierderea tuturor informațiilor In-Character dobândite în cadrul acțiunii Roleplay în care personajul a murit.
+PK-ul se aplică în momentul în care jucătorul primește respawn la spital. Din acel moment, acesta trebuie să uite circumstanțele morții, identitatea persoanelor implicate și toate informațiile aflate în timpul acțiunii respective. De asemenea, jucătorul nu are voie să revină sau să se implice din nou în același Roleplay, chiar dacă este chemat de către colegi.
+Informațiile, relațiile și experiențele personajului care nu au legătură cu acțiunea în care acesta a murit nu sunt afectate de PK.
+Dacă un jucător moare într-o zonă în care se desfășoară o activitate sau un conflict, precum Mina, Plantația, Grove, Sandy, Vespucci etc., acesta nu poate reveni în zona respectivă timp de 30 de minute.
+
+➤ Ești împreună cu organizația ta la jaful Pacific, ești omorât și primești respawn la spital. Nu ai voie să revii la jaf sau să oferi informații despre acțiune, chiar dacă ești chemat de colegi.
+
+➤ Mori în timpul unui conflict desfășurat in zona Grove. Nu ai voie să revii în zona respectivă timp de 30 de minute.
+15. TASTA „L”:
+Tasta „L” poate fi folosită exclusiv pentru afișarea și identificarea ID-ului unui jucător care a încălcat regulamentul.
+Tasta trebuie apăsată scurt, o singură dată și numai atât cât este necesar pentru ca ID-ul jucătorului să fie vizibil pe filmare. Dacă ID-ul respectiv a fost deja surprins în înregistrare, apăsarea repetată a tastei pentru identificarea aceleiași persoane este interzisă.
+Informațiile obținute prin folosirea tastei „L” pot fi utilizate doar pentru realizarea unei reclamații sau pentru prezentarea dovezilor către echipa Staff. Acestea nu pot fi folosite în scopuri IC și nu pot influența desfășurarea situației Roleplay.
+Folosirea nejustificată, repetată sau utilizarea IC a informațiilor afișate prin tasta „L” se sancționează conform regulii de MetaGaming.
+16. COMPORTAMENT TOXIC:
+Limbajul vulgar, injuriile, amenințările, discriminarea și comentariile cu tentă rasistă sunt strict interzise pe toate canalele de comunicare Out of Character, inclusiv pe chat-urile și canalele vocale ale serverului, în tichete sau pe platformele oficiale ale comunității.
+Jucătorii au obligația de a păstra un comportament civilizat și respectuos față de ceilalți membri ai comunității. Conflictele desfășurate In-Character nu trebuie continuate în mediul OOC prin jigniri, amenințări, hărțuire sau atacuri personale.
+Este considerat comportament toxic orice comportament intenționat și repetat care urmărește să deranjeze, să intimideze, să umilească sau să provoace conflicte în cadrul comunității. Sunt interzise, în special:
+
+➤ Instigarea membrilor comunității la ură, certuri sau conflicte OOC în urma unor acțiuni desfășurate IC.
+
+➤ Jignirea, amenințarea sau hărțuirea altor jucători prin mesaje private, streamuri, tichete ori alte canale OOC.
+
+➤ Atacarea verbală a unei persoane fără un motiv întemeiat, cu scopul de a o provoca sau umili.
+
+➤ Încercarea intenționată de a afecta experiența de joc a altor membri prin conflicte repetate, comportament ostil sau provocări nejustificate.
+
+➤ Publicarea ori distribuirea unor mesaje ofensatoare, discriminatorii sau menite să denigreze un membru al comunității.
+Abaterile vor fi sancționate în funcție de gravitate, context și istoricul jucătorului. Comportamentele grave sau repetate pot conduce la aplicarea unei interdicții permanente.
+Încadrarea unui jucător ca fiind toxic și aplicarea unei interdicții permanente în baza acestei reguli pot fi decise numai de un membru Staff cu rangul de Supervizor sau superior.
+17. SUFERINTELE OOC:
+Prin suferințe OOC se înțeleg mesajele, ironiile, provocările sau comentariile adresate altor jucători în afara unei situații Roleplay, cu scopul de a-i batjocori, umili, denigra sau provoca în urma unei acțiuni IC.
+Este interzisă aducerea suferințelor pe chatul global, în mesaje private (/pm), pe Voice Chat-ul din joc, în ticket-uri și pe canalele oficiale de text sau voce ale serverului de Discord. Conflictele și rezultatele acțiunilor IC trebuie să rămână în cadrul Roleplay-ului și nu trebuie continuate în mediul OOC.
+Injuriile, amenințările sau provocările adresate unui membru Staff sunt sancționate indiferent dacă sunt transmise în joc, pe Discord sau pe serverele organizațiilor. În cazul în care un membru Staff a procedat greșit, jucătorul trebuie să realizeze o reclamație Staff, care va fi analizată de un membru cu grad superior.
+Conversațiile private desfășurate în afara canalelor oficiale ale comunității, între jucători care nu fac parte din echipa Staff, nu intră, de regulă, în responsabilitatea administrației. Fac excepție amenințările grave, hărțuirea repetată sau situațiile care afectează în mod direct comunitatea ori activitatea serverului.
+Exemple:
+
+➤ V-am bătut singur mă ce faceți? Așa slabi sunteți? etc.
+
+➤ Alo polițistilor cam slabi azi la jaful x.
+
+➤ Mai invătati să trageți si voi la war-uri.
+
+➤ Spor la cules cartoafe etc.
+18. AMENINTARI OOC:
+Este strict interzis ca un jucător să pretindă că deține o funcție administrativă, că are relații privilegiate cu membrii Staff sau că poate influența aplicarea unei sancțiuni.
+Jucătorii nu au voie să îi amenințe pe ceilalți cu intervenția unui membru Staff ori cu aplicarea unor sancțiuni precum Admin Jail, kick sau ban. De asemenea, este interzisă folosirea numelui, funcției sau autorității unui membru Staff pentru intimidarea, manipularea ori obținerea unui avantaj asupra altui jucător.
+Orice reclamație sau sesizare trebuie realizată exclusiv prin metodele oficiale puse la dispoziție de comunitate.
+INFORMAȚII: Amenințările referitoare la sancțiuni administrative sunt interzise indiferent dacă sunt adresate unui jucător obișnuit sau unui membru Staff.
+EXEMPLU: Civilul X îl amenință pe Civilul Y că va chema un anumit administrator pentru a-i aplica o sancțiune precum kick, Admin Jail sau ban.
+SANCTIUNE: Încălcarea acestei reguli se sancționează cu Admin Jail sau ban, în funcție de gravitatea situației.
+19. NU FACETI DEATH MATCH (DM):
+Death Match, abreviat DM, reprezintă participarea a doi sau mai mulți jucători la un conflict fizic ori armat, fără existența unui scop, a unui motiv sau a unui context Roleplay întemeiat.
+Este interzisă inițierea sau continuarea luptelor desfășurate exclusiv pentru divertisment, testarea armelor ori obținerea de kill-uri, fără ca acțiunea să fie justificată printr-o situație IC.
+20. NU FACETI REVENGE KILL (RK):
+Revenge Kill, abreviat RK, reprezintă întoarcerea unui jucător, după ce a primit respawn la spital, pentru a se răzbuna pe persoana sau persoanele care l-au omorât în acțiunea Roleplay anterioară.
+În urma respawn-ului, se aplică regula Player Kill (PK), iar personajul trebuie să uite circumstanțele morții și identitatea persoanelor implicate. Prin urmare, jucătorul nu are voie să revină la acțiunea respectivă, să caute persoanele implicate sau să folosească informațiile anterioare pentru a se răzbuna.
+Revenirea în zonă și desfășurarea unor acțiuni violente împotriva persoanelor care au provocat moartea personajului se consideră Revenge Kill, chiar dacă jucătorul este chemat sau informat de către colegi.
+21. NU FACETI NINJA JACK (NJ):
+Ninja Jack, abreviat NJ, reprezintă furtul sau preluarea unui vehicul într-un mod nerealist, fără desfășurarea unei acțiuni Roleplay corespunzătoare.
+Pentru a fura un vehicul lăsat nesupravegheat, jucătorul trebuie să interpreteze în mod realist pătrunderea în vehicul și pornirea acestuia, dacă nu deține cheile obținute prin mijloace IC.
+Este interzis să urcați într-un vehicul și să plecați imediat cu acesta, folosindu-vă exclusiv de mecanicile jocului.
+De asemenea, furtul vehiculului este interzis atunci când proprietarul se află lângă acesta sau este implicat direct în situație, chiar dacă sunt folosite comenzi Roleplay. Simpla utilizare a comenzilor /me nu justifică preluarea forțată a vehiculului.
+NOTĂ: Este recomandat să vă încuiați vehiculul după ce coborâți din acesta, folosind tasta „F2”.
+22. NU FACETI CAR RAM:
+Car Ram reprezintă folosirea intenționată și repetată a unui vehicul pentru a lovi, împinge, bloca sau avaria vehiculul altui jucător, fără existența unui motiv Roleplay întemeiat.
+Coliziunile accidentale sau cele produse în timpul unei urmăriri justificate nu sunt considerate automat Car Ram. Jucătorii au însă obligația de a evita loviturile repetate și nerealiste și de a continua situația într-un mod Roleplay corespunzător.
+23. NU FACETI CAR SURF:
+Car Surf reprezintă staționarea sau deplasarea pe exteriorul unui vehicul aflat în mișcare, fără existența unui motiv Roleplay întemeiat.
+Jucătorii nu au voie să stea pe plafonul, capota, portbagajul sau orice altă parte exterioară a unui vehicul în timpul deplasării, dacă acțiunea nu este justificată printr-un context Roleplay realist.
+24. NU FACETI PROVOKING:
+Provoking reprezintă provocarea intenționată a unui jucător prin acțiuni sau comportamente IC, cu scopul de a-l determina să te urmărească, să te atace ori să intre într-o situație Roleplay creată exclusiv pentru propriul amuzament.
+Este interzisă inițierea unor conflicte, urmăriri sau interacțiuni forțate fără existența unui motiv Roleplay întemeiat. Orice provocare trebuie să aibă la bază un context IC clar și să contribuie în mod real la desfășurarea unei acțiuni Roleplay.
+EXEMPLE:
+
+➤ Lovești intenționat vehiculul altui jucător și pleci, cu scopul de a începe o urmărire pentru propriul amuzament.
+
+➤ Blochezi drumul unui jucător sau îi împiedici deplasarea în mod repetat, cu scopul de a-l enerva și de a-l atrage într-un conflict.
+
+➤ Provoci repetat membrii unei organizații în apropierea sediului acestora, fără un motiv IC întemeiat, pentru a declanșa o confruntare.
+
+➤ Urmărești un jucător și îl provoci constant, deși acesta încearcă să evite interacțiunea.
+25. NU FACETI ROB&KILL:
+Rob & Kill (R&K) reprezintă jefuirea unui jucător, urmată de omorârea acestuia.
+După finalizarea jafului, jefuitorul trebuie să îi permită victimei să plece și nu are voie să o omoare.
+Excepție:
+Omorârea victimei după jaf este permisă numai dacă aceasta reprezintă un pericol direct și imediat pentru viața jefuitorului, de exemplu dacă scoate o armă, atacă sau deschide focul asupra acestuia.
+Exemplu: Jucătorul X îl jefuiește pe jucătorul Y și încearcă să părăsească zona. Jucătorul Y scoate o armă și trage asupra lui X, iar X îl omoară pentru a se apăra. Această situație nu este considerată Rob & Kill.
+26. NU FACETI DROP & KILL (DK):
+Drop & Kill, abreviat D&K, reprezintă obligarea unui jucător să își arunce bunurile, urmată de omorârea acestuia.
+Dacă un jucător a fost obligat să își arunce bunurile, acesta trebuie lăsat în viață.
+Excepție:
+Omorârea victimei este permisă numai dacă, după predarea bunurilor, aceasta reprezintă un pericol direct și imediat pentru viața jefuitorului, de exemplu dacă scoate o armă, atacă sau deschide focul asupra acestuia.
+Exemplu: Jucătorul X îl obligă pe jucătorul Y să își arunce bunurile și încearcă să părăsească zona. Jucătorul Y scoate o armă și trage asupra lui X, iar X îl omoară pentru a se apăra. Această situație nu este considerată Drop & Kill.
+27. NU FACETI POST HUNTING:
+Post Hunting reprezintă folosirea nejustificată a sistemului de reclamații cu scopul de a provoca, hărțui sau sancționa alți jucători pentru situații în care reclamantul nu a fost implicat direct.
+Reclamațiile pot fi depuse numai de persoanele implicate în mod direct și demonstrabil în incidentul raportat. Nu este permisă realizarea unei reclamații în numele altui jucător sau pentru o situație observată din exterior.
+Orice reclamație trebuie depusă în termen de maximum 24 de ore de la producerea incidentului. Reclamațiile transmise după expirarea acestui termen pot fi respinse.
+Este interzisă monitorizarea constantă a activității unui jucător cu scopul de a identifica orice abatere minoră și de a realiza reclamații repetate împotriva acestuia. Folosirea sistemului de reclamații din răzbunare, ură, plictiseală sau pentru provocarea unor conflicte este considerată Post Hunting.
+Reclamațiile trebuie realizate cu bună-credință și trebuie să conțină dovezi clare, complete și relevante pentru situația raportată.
+28. NU FACETI CHICKEN-RUN (CR):
+Chicken Running, abreviat CR, reprezintă comportamentul unui jucător care fuge rapid dintr-o parte în alta pentru a evita gloanțele, ceea ce este considerat Non-RolePlay și este interzis.
+29. DESPRE CHARACTER KILL (CK):
+Character Kill, abreviat CK, reprezintă eliminarea definitivă a identității și a trecutului unui personaj. După primirea unui CK, jucătorul trebuie să uite toate informațiile, relațiile și experiențele acumulate de personajul anterior și să înceapă o nouă poveste Roleplay.
+Jucătorul care primește CK este obligat să își schimbe numele și prenumele din buletin, înfățișarea și îmbrăcămintea în termen de maximum 48 de ore. Noul personaj nu poate folosi informațiile, relațiile sau conflictele personajului anterior.
+Pentru aplicarea unui CK trebuie să existe un motiv IC bine întemeiat și o acțiune Roleplay complexă. Persoana sau organizația care acordă CK-ul este obligată să dețină o dovadă video completă, pe care trebuie să o păstreze timp de minimum 24 de ore și să o prezinte echipei Staff la cerere. În lipsa unei dovezi corespunzătoare, CK-ul poate fi declarat nevalabil.
+
+➤ Un membru trădează o organizație criminală și oferă autorităților sau unei alte organizații informații interne, iar conducerea organizației află despre trădare prin mijloace IC.
+
+➤ Un jucător interpretează sinuciderea personajului sau recurge la suicid pentru a evita consecințele unei acțiuni cu Poliția.
+
+➤ Ambele părți implicate își exprimă acordul OOC pentru desfășurarea unui Roleplay care se finalizează cu CK.
+
+➤ Personajul comite infracțiuni grave care conduc la o pedeapsă echivalentă cu închisoarea pe viață, respectiv acumularea unei condamnări de cel puțin 350 de luni.
+
+➤ Sindicatul poate decide aplicarea unui CK în situații speciale, precum trădarea unei organizații, încălcarea gravă a regulilor lumii interlope sau alte acțiuni care afectează în mod direct echilibrul și activitatea organizațiilor criminale.
+
+➤ Sindicatul poate aplica CK unui jefuitor care a fost prins în mod repetat în urma unor jafuri grave, atunci când există un istoric IC documentat și suficiente motive pentru ca personajul să fie considerat o amenințare majoră pentru oraș sau pentru lumea interlopă.
+
+➤ În alte situații Roleplay complexe, atunci când există un motiv justificat și sunt respectate toate condițiile prevăzute de regulament.
+
+➤ Părăsirea unei mafii sau excluderea din aceasta atrage automat pierderea tuturor informațiilor interne despre organizație. Jucătorul trebuie să își schimbe înfățișarea și îmbrăcămintea și nu mai poate folosi informațiile obținute în perioada în care a fost membru.
+
+➤ Un jucător care părăsește sau este exclus dintr-o facțiune guvernamentală, precum Poliția, D.I.S. sau S.M.P., este obligat să uite toate informațiile interne și confidențiale dobândite în cadrul facțiunii.
+
+➤ În cazul trădării unei grupări prin oferirea de informații unei alte organizații sau facțiuni, situația trebuie adusă la cunoștința Sindicatului, iar jucătorul poate primi CK și Blacklist Mafii.
+CK complet – comanda /ck
+Comanda /ck este utilizată în situații Roleplay speciale sau de o complexitate ridicată, în care este necesară resetarea completă și definitivă a personajului. Aceasta poate fi folosită inclusiv în acțiunile în care este implicat Primarul Orașului, Sindicatul, conducerea unei instituții sau o altă autoritate relevantă pentru desfășurarea Roleplay-ului.
+Comanda produce resetarea completă a personajului, inclusiv:
+
+➤ ștergerea numelui și a prenumelui;
+
+➤ ștergerea garderobei și a inventarului;
+
+➤ eliminarea din facțiunea sau organizația actuală;
+
+➤ resetarea completă a identității și progresului personajului.
+30. AFK / REFUZ ROLEPLAY:
+Refuzul Roleplay reprezintă evitarea, ignorarea sau întreruperea intenționată a unei acțiuni Roleplay în care jucătorul este implicat.
+Jucătorii au obligația de a continua și de a coopera în cadrul acțiunilor Roleplay, inclusiv atunci când sunt urmăriți, filați, opriți sau reținuți de autorități. Ignorarea comenzilor /me, refuzul nejustificat al unei percheziții, intrarea în AFK sau minimizarea jocului pentru evitarea acțiunii sunt strict interzise.
+În urma unei percheziții Roleplay, autoritățile pot confisca obiectele ilegale descoperite asupra personajului sau în vehiculul acestuia. Refuzul de a preda bunurile identificate poate fi sancționat, iar acestea pot fi eliminate administrativ.
+Reguli privind AFK-ul
+
+➤ Este interzis să vă puneți în AFK în timpul unei acțiuni Roleplay.
+
+➤ Jucătorii aflați On Duty în cadrul Poliției sau al Serviciului Medical nu pot sta AFK mai mult de 5 minute.
+
+➤ În zonele publice, jucătorii nu pot sta AFK mai mult de 2 minute.
+
+➤ În zonele rău-famate, locațiile ilegale sau zonele în care se desfășoară conflicte, AFK-ul este interzis.
+
+➤ Nu este permisă inițierea unei acțiuni Roleplay asupra unui jucător care era deja AFK. Fac excepție situațiile începute înainte ca acesta să intre în AFK.
+
+➤ Dacă un jucător intră în AFK în timpul unei acțiuni, situația poate fi oprită, iar acesta poate fi reclamat pentru Refuz Roleplay.
+
+➤ Folosirea programelor anti-AFK, blocarea tastelor sau utilizarea altor metode pentru evitarea sistemului automat de AFK este strict interzisă.
+Disconnect in Roleplay
+Disconnect in Roleplay reprezintă părăsirea serverului în timpul unei acțiuni Roleplay prin quit, deconectare intenționată sau provocarea unui crash ori timeout, cu scopul de a evita consecințele situației.
+Dacă un jucător primește un crash sau timeout neintenționat, acesta are obligația să revină pe server cât mai repede și să anunțe situația pe canalul Free Chat al serverului de Discord.
+În cazul unei deconectări produse într-un moment avantajos pentru jucător, precum în timpul unei percheziții în care au fost descoperite bunuri ilegale, echipa Staff poate solicita o dovadă video care să demonstreze că deconectarea nu a fost provocată intenționat.
+Nerevenirea pe server, neanunțarea situației sau lipsa unei justificări credibile poate conduce la sancționarea pentru Disconnect in Roleplay.
+RECOMANDARE: Jucătorilor le este recomandat să își înregistreze acțiunile desfășurate pe server, pentru a putea prezenta dovezi în cazul unor reclamații sau probleme tehnice.
+31. ROLEPLAY DEZGUSTATOR / SCARBOS:
+Este interzisă inițierea unor acțiuni Roleplay care implică abuz sexual, viol, canibalism, necrofilie, pornografie sau alte scenarii cu caracter obscen, șocant ori profund ofensator, fără acordul OOC explicit și prealabil al tuturor persoanelor implicate.
+Acordul trebuie obținut înainte de începerea acțiunii și poate fi solicitat printr-o comandă /me. Orice participant are dreptul să refuze sau să întrerupă imediat un astfel de Roleplay, fără a fi sancționat pentru Refuz Roleplay.
+Pedofilia, sexualizarea minorilor și pornografia infantilă sunt strict interzise în orice formă, indiferent de existența unui acord OOC. Simpla inițiere sau promovare a unui asemenea conținut poate atrage sancțiuni severe.
+Consimțământul poate fi retras în orice moment. Continuarea acțiunii după retragerea acordului se consideră o încălcare gravă a regulamentului.
+NOTĂ: Acțiunile de tortură, precum tăierea unui deget sau smulgerea unei unghii, nu sunt încadrate automat la Roleplay dezgustător, însă trebuie să aibă un motiv IC întemeiat, să fie desfășurate fără descrieri excesiv de grafice și să respecte regulile generale ale serverului.
+32. BOMBARDIER:
+Prin comportament de tip „Bombardier” se înțelege atitudinea agresivă, provocatoare sau violentă adoptată fără un motiv Roleplay întemeiat, cu scopul de a intimida, umili ori crea conflicte cu ceilalți jucători.
+Este strict interzisă atacarea sau omorârea unei persoane din motive banale, precum o replică nepotrivită, o neînțelegere minoră sau o simplă provocare verbală.
+De asemenea, este interzisă agresarea verbală a persoanelor necunoscute, adresarea de injurii fără motiv și căutarea intenționată a unor conflicte cu jucători cu care nu a existat o interacțiune Roleplay anterioară.
+Exemple:
+
+➤ Un jucător ți se adresează folosind apelativul „bă”, iar tu îl ataci sau îl înjunghii doar pentru această replică.
+
+➤ Mergi pe stradă și adresezi injurii persoanelor întâlnite, fără existența unui motiv Roleplay.
+
+➤ Abordezi un jucător necunoscut și încerci să creezi o ceartă sau o confruntare fără un context IC întemeiat.
+
+➤ Reacționezi violent la o neînțelegere minoră, fără a încerca să dezvolți situația într-un mod realist.
+Comportamentele de acest tip pot fi încadrate, în funcție de situație, și la Random Deathmatch, Provoking, Troll sau Fail Roleplay.
+33. HAOTIC DRIVE (HD):
+Haotic Drive, abreviat HD, reprezintă conducerea unui vehicul într-un mod nerealist, imprudent sau incompatibil cu desfășurarea unei situații Roleplay.
+Jucătorii au obligația de a adapta viteza și stilul de conducere la tipul vehiculului, starea drumului și situația în care se află.
+Reguli generale
+
+➤ Este interzisă depășirea vitezei de 250 km/h pe drumurile din interiorul localităților Los Santos, Sandy Shores, Paleto, Dusty și Grapeseed, fără un motiv IC bine întemeiat.
+
+➤ Circulația pe contrasens pe autostrăzi sau pe drumurile intens circulate este interzisă, cu excepția situațiilor în care există un motiv IC justificat.
+
+➤ Este interzisă lovirea intenționată a unui vehicul oprit sau provocarea unei coliziuni frontale cu scopul de a opri un alt vehicul, indiferent de tipul sau dimensiunea vehiculului folosit.
+
+➤ Săriturile și cascadoriile periculoase sunt interzise. Fac excepție vehiculele special concepute sau modificate pentru astfel de manevre, atunci când acțiunea este justificată de o urmărire ori de un context Roleplay întemeiat.
+Circulația Off-Road
+
+➤ Este interzisă folosirea vehiculelor cu garda la sol joasă, inclusiv a vehiculelor sport, pe drumuri forestiere, neasfaltate sau pe terenuri unde acestea nu ar putea circula în mod realist.
+
+➤ Viteza maximă admisă pe drumurile neasfaltate este de 80 km/h.
+
+➤ În timpul unei urmăriri sau atunci când viața personajului este pusă în pericol, viteza poate ajunge la maximum 120 km/h.
+Extreme Off-Road
+
+➤ Este interzisă urcarea pe munți, trasee accidentate sau drumuri nemarcate cu vehicule care nu sunt special concepute și echipate pentru teren dificil.
+
+➤ Vehiculele folosite trebuie să fie potrivite pentru teren accidentat și echipate corespunzător, inclusiv cu anvelope Off-Road. Exemple: Raptor, Terminator sau motociclete de tip motocross.
+
+➤ Viteza maximă admisă pe traseele Extreme Off-Road este de 80 km/h, indiferent de situație.
+Aeronave
+
+➤ Elicopterele și avioanele pot ateriza numai în zone special amenajate, precum aeroporturi și helipaduri, sau pe câmpuri largi deschise.
+
+➤ Este interzisă aterizarea pe drumuri publice, terenuri accidentate, locuințe private sau clădiri care nu dețin un helipad special amenajat.
+
+➤ Elicopterele Poliției și ale Serviciului Medical pot ateriza în alte zone atunci când desfășoară o misiune și aterizarea poate fi realizată în siguranță.
+Ambarcațiuni
+
+➤ Este interzisă folosirea uscatului pentru oprirea forțată a unei ambarcațiuni prin intrarea pe mal cu viteză ridicată.
+34. PIT-STOP:
+Manevra de Pit-Stop este permisă numai în cadrul unei urmăriri Roleplay și trebuie executată într-un mod realist, ținând cont de viteza, tipul vehiculelor și condițiile de deplasare.
+Este interzisă efectuarea manevrei de Pit-Stop la viteze mai mari de 150 km/h, deoarece riscul producerii unui accident grav este prea ridicat.
+De asemenea, este interzisă folosirea vehiculelor de lux, exotice sau cu o valoare ridicată pentru efectuarea acestei manevre. Exemple: Lamborghini Aventador, Rolls-Royce și alte vehicule similare.
+Manevra nu trebuie executată în zone aglomerate, în apropierea civililor sau în situații în care poate pune în pericol nejustificat persoanele din jur.
+35. TICKET IN RP:
+Este interzisă deschiderea unui ticket în timpul unei acțiuni Roleplay aflate în desfășurare. Chiar dacă un jucător consideră că regulamentul a fost încălcat, acesta are obligația de a continua acțiunea, de a păstra dovada video și de a solicita intervenția Staff-ului după terminarea Roleplay-ului.
+Ticketul poate fi deschis după încheierea acțiunii, după primirea respawn-ului sau după ce toate persoanele implicate au părăsit zona, iar situația nu mai poate continua.
+Deschiderea unui ticket nu întrerupe automat acțiunea Roleplay. Jucătorii trebuie să continue situația până când un membru Staff solicită oprirea acesteia.
+Excepții
+Un ticket poate fi deschis imediat în următoarele situații:
+
+➤ Folosirea cheat-urilor sau exploatarea gravă a unui bug.
+
+➤ Troll, RDM sau VDM masiv.
+
+➤ Refuz Roleplay ori Disconnect in Roleplay care împiedică în mod evident continuarea acțiunii.
+
+➤ Inițierea unui Roleplay dezgustător fără acordul OOC al persoanelor implicate.
+
+➤ Încălcări grave și repetate care fac imposibilă continuarea normală a situației Roleplay.
+Ticketul deschis în timpul unei acțiuni pentru o abatere minoră, o neînțelegere sau o situație care putea fi continuată în mod normal se consideră Ticket în Roleplay.
+Jucătorul poate fi sancționat dacă întrerupe nejustificat acțiunea, prezintă informații false sau folosește sistemul de ticket cu rea-credință.
+36. SCAM:
+Scam-ul reprezintă înșelarea intenționată a unui jucător prin nerespectarea unei înțelegeri stabilite în cadrul unei tranzacții, al unui pariu sau al unui serviciu.
+Jucătorii au obligația de a verifica atent bunurile și sumele introduse în sistemul de trade sau contract și de a confirma tranzacția numai după ce s-au asigurat că oferta corespunde înțelegerii stabilite.
+Situații care se consideră Scam
+
+➤ Angajezi un jucător pentru prestarea unui serviciu legal sau ilegal, iar după finalizarea acestuia refuzi să îi oferi plata convenită.
+
+➤ Stabilești termenii unei tranzacții sau ai unui pariu protejat de regulament, iar după ce pierzi, refuzi să respecți înțelegerea inițială.
+
+➤ Invoci motive false pentru a evita folosirea sistemului de trade sau contract, cu scopul de a obține bunurile ori banii unui jucător fără a-i oferi ceea ce a fost stabilit.
+
+➤ Modifici intenționat oferta din sistemul de trade înainte de confirmare, în speranța că celălalt jucător nu va observa schimbarea.
+
+➤ Încerci să înșeli un jucător, chiar dacă tranzacția nu este finalizată. Tentativa de scam este, de asemenea, sancționată.
+Situații care nu se sancționează
+
+➤ Împrumuți voluntar bani, vehicule sau alte bunuri unui jucător, iar acesta nu le returnează.
+
+➤ Realizezi o tranzacție în afara sistemului de trade sau contract, iar valoarea totală a acesteia nu depășește 10.000.000 $. Înșelăciunile realizate exclusiv prin metode IC, în limita acestei sume, nu se sancționează, iar bunurile pierdute nu vor fi recuperate de către Staff.
+
+➤ Confirmi o ofertă greșită în sistemul de trade sau contract fără să verifici bunurile și sumele introduse.
+
+➤ Pariezi vehicule, bani murdari, Monede Sindicat sau alte bunuri la barbut, curse ilegale ori Paintball. Aceste pariuri se desfășoară pe propria răspundere, iar Staff-ul nu garantează recuperarea bunurilor pierdute.
+Este interzisă invocarea unor motive false, folosirea bugurilor sau a informațiilor OOC și împărțirea intenționată a aceleiași tranzacții în mai multe părți, cu scopul de a evita limita de 10.000.000 $.
+Limita de 10.000.000 $ nu se aplică în cazul jucătorilor cu mai puțin de 25 de ore. Orice scam realizat asupra acestora este sancționabil.
+Barbutul este destinat pariurilor pe bani. Folosirea vehiculelor sau a altor bunuri drept miză se face exclusiv pe riscul jucătorilor implicați.
+Pentru sancționarea unui scam este necesară o dovadă video clară, care să prezinte înțelegerea inițială, condițiile stabilite și momentul în care acestea nu au fost respectate.
+37. ATITUDINE NEADECVATA CU FETELE:
+Este strict interzisă adresarea de injurii, remarci obscene, comentarii cu tentă sexuală sau manifestarea unui comportament agresiv ori necorespunzător față de jucătoarele pe care nu le cunoașteți.
+Glumele, ironiile sau replicile jignitoare sunt permise numai între persoane care se cunosc și care sunt de acord cu un astfel de comportament. Faptul că a existat o interacțiune anterioară nu reprezintă automat consimțământ.
+Dacă o jucătoare se simte inconfortabil, refuză interacțiunea sau solicită încheierea conversației, persoanele implicate au obligația de a opri imediat comportamentul și de a încheia situația într-un mod civilizat.
+Continuarea interacțiunii prin injurii, remarci nepotrivite, amenințări, urmărire repetată sau comportament agresiv după exprimarea refuzului este strict interzisă și se sancționează.
+38. STREAM-SNIPE:
+Stream-Snipe reprezintă urmărirea unei transmisiuni live pentru a obține informații despre locația, activitatea sau acțiunile unui streamer și folosirea acestora pentru a interveni în Roleplay-ul său.
+Este strict interzis să căutați, urmăriți, provocați sau deranjați în mod intenționat un streamer pe baza informațiilor observate în timpul transmisiunii. Informațiile aflate dintr-un stream sunt informații OOC și nu pot fi folosite în joc.
+Exemple:
+
+➤ Te deplasezi la locația unui streamer după ce ai văzut-o în transmisiunea live.
+
+➤ Urmărești constant streamerul și încerci să intri forțat în acțiunile sale Roleplay.
+
+➤ Provoci intenționat accidente, Car Ram, VDM sau RDM pentru a-i întrerupe transmisiunea ori pentru a apărea în conținutul său.
+
+➤ Folosești informațiile observate în stream pentru a afla poziția, planurile, identitatea sau bunurile streamerului ori ale persoanelor aflate alături de acesta.
+
+➤ Transmiți altor jucători informații obținute din stream, pentru ca aceștia să intervină în acțiunea Roleplay.
+Orice acțiune desfășurată cu scopul de a afecta negativ experiența Roleplay sau conținutul unui streamer poate fi sancționată pentru Stream-Snipe, MetaGaming și alte abateri aplicabile.
+39. RĂPIRI ȘI JAFURI ASUPRA PERSOANELOR:
+Răpirea sau jefuirea unei persoane trebuie să aibă la bază un motiv Roleplay întemeiat și să fie desfășurată într-un mod realist, fără abuzarea mecanicilor jocului sau umilirea victimei.
+Reguli generale
+
+➤ Este interzis să obligați o persoană să retragă bani din contul bancar, să aducă vehicule din garaj, să transfere proprietatea unui vehicul, a unei locuințe sau a unei afaceri ori să procure bunuri care nu se află deja asupra sa sau în vehiculul pe care îl folosește.
+
+➤ Pentru răpirea unei persoane cu ajutorul unui vehicul este necesară participarea a minimum două persoane. Șoferul nu poate conduce și supraveghea singur victima în același timp.
+
+➤ Este interzis să jefuiți sau să răpiți aceeași persoană de mai multe ori într-un interval de o oră, calculat de la încheierea primei acțiuni.
+
+➤ Este interzis să mutați o persoană dintr-o zonă publică într-o zonă rău-famată exclusiv cu scopul de a o jefui.
+
+➤ Este interzis să obligați victima să cânte, să danseze, să latre sau să desfășoare alte acțiuni umilitoare ori lipsite de un scop Roleplay întemeiat.
+
+➤ În cadrul acestor acțiuni se aplică în continuare regulile privind Rob & Kill, Drop & Kill, Non-Fear și Roleplay-ul dezgustător.
+Joburi și anunțuri
+
+➤ Este interzis să jefuiți sau să răpiți o persoană cât timp aceasta practică în mod vizibil un job legal, folosește vehiculul de serviciu ori se află la locația specifică jobului.
+
+➤ Este interzis să jefuiți sau să răpiți alte persoane cât timp practicați un job legal ori folosiți uniforma sau vehiculul aferent acestuia.
+
+➤ Este interzis să publicați sau să folosiți un anunț comercial cu scopul de a atrage o persoană într-o anumită locație pentru a o jefui ori răpi.
+
+➤ Este interzis să campați la locațiile de colectare, procesare, craftare sau livrare ale joburilor legale ori ilegale, cu scopul de a jefui sau răpi jucătorii care ajung în zonă.
+Jucători începători
+
+➤ Jucătorii care au mai puțin de 25 de ore petrecute în oraș nu pot fi jefuiți, dar pot fi răpiți.
+
+➤ Jucătorii care au mai puțin de 25 de ore nu pot participa la jefuirea altor persoane.
+Organizații guvernamentale
+
+➤ Membrii organizațiilor guvernamentale aflați on-duty nu pot fi jefuiți.
+
+➤ Răpirea unui membru guvernamental aflat on-duty este permisă numai membrilor unei facțiuni ilegale, în baza unui motiv IC întemeiat. Săgetile nu pot iniția o astfel de răpire.
+Răscumpărare
+
+➤ Pentru eliberarea unui ostatic poate fi solicitată Poliției o răscumpărare de maximum 5.000.000 $ pentru fiecare ostatic sau bunuri cu o valoare echivalentă.
+
+➤ Folosirea unui prieten, coleg sau a unei persoane care și-a oferit voluntar participarea drept ostatic este strict interzisă.
+
+➤ Regulile privind răscumpărarea nu se aplică jafurilor la magazine sau bănci, acestea fiind reglementate separat.
+40. ILEGALITATE IN ZONA PUBLICA:
+Prin ilegalitate în zonă publică se înțelege desfășurarea unei acțiuni ilegale într-o zonă publică sau intens circulată, precum răpirea, jefuirea, omorârea, amenințarea cu arma, comercializarea bunurilor ilegale ori folosirea nejustificată a unei arme.
+În cazul ilegalităților premeditate, persoanele implicate sunt obligate să poarte mască.
+Zone publice
+În zonele publice sunt interzise
+
+➤ Răpirea, jefuirea sau omorârea unei persoane;
+
+➤ Amenințarea, atacarea sau urmărirea unei persoane cu o armă;
+
+➤ Scoaterea nejustificată a armelor de foc sau a armelor albe;
+
+➤ Vânzarea ori cumpărarea armelor, drogurilor, locațiilor ilegale sau a altor bunuri interzise;
+
+➤ Folosirea unor denumiri mascate, precum „jucării” sau „praf de copt”, pentru comercializarea bunurilor ilegale.
+Sunt considerate locații publice băncile, bancomatele, magazinele, benzinăriile, garajele, secțiile de Poliție, spitalele, Primăria, CNN, Showroom-ul, cluburile, frizeriile, saloanele de tatuaje, spălătoriile și locațiile joburilor legale.
+Aceste locații își păstrează statutul de zonă publică indiferent de culoarea zonei în care sunt amplasate.
+Zone și drumuri roșii
+Zonele roșii sunt zone rău-famate în care pot fi desfășurate activități ilegale, în baza unui motiv Roleplay întemeiat.
+Răpirea, conflictele, folosirea armelor și jefuirea persoanelor sunt permise la orice oră.
+Simpla prezență a unei persoane într-o zonă roșie nu reprezintă un motiv suficient pentru atacarea, jefuirea sau omorârea acesteia.
+Zone nemarcate și zone retrase
+Zonele nemarcate aflate în interiorul localităților sunt considerate, de regulă, zone publice.
+Zonele izolate, drumurile forestiere, munții și locurile aflate în afara localităților pot fi considerate zone retrase, dacă acțiunile desfășurate acolo nu pot fi observate cu ușurință de pe un drum circulat sau dintr-o zonă populată.
+În zonele retrase pot fi desfășurate răpiri, conflicte armate sau alte ilegalități numai în baza unui motiv IC foarte bine întemeiat și a unui context Roleplay anterior. Jefuiriea persoanelor este permisă doar în intervalul orar 20:00 - 8:00.
+O simplă jignire, o provocare minoră, o neînțelegere banală sau prezența unei persoane în zona respectivă nu reprezintă un motiv suficient pentru inițierea unei ilegalități.
+Harta zonelor este orientativă. Situațiile aflate la limita dintre două zone vor fi analizate de echipa Staff în funcție de locație, vizibilitate și contextul Roleplay.
+Proprietăți private
+Pe proprietățile private aflate în zone rău-famate, precum casele private, casele organizațiilor, locațiile Sindicatului, locațiile de barbut, sala sau alte proprietăți similare, ilegalitățile pot fi inițiate numai de persoanele care dețin sau controlează locația respectivă.
+Persoanele din exterior nu pot folosi o proprietate care nu le aparține pentru a iniția ilegalități.
+Orice acțiune trebuie să aibă la bază un motiv IC întemeiat. Deținerea proprietății nu reprezintă, de una singură, un motiv pentru răpirea, atacarea sau omorârea unei persoane.
+Businessurile deschise publicului sunt considerate locații publice, chiar dacă sunt amplasate într-o zonă roșie.
+Continuarea unei acțiuni
+Dacă un conflict începe în mod regulamentar într-o zonă galbenă, roșie sau retrasă și continuă într-o zonă publică, acesta nu este considerat automat ilegalitate în zonă publică.
+Acțiunea poate continua numai pentru o perioadă și o distanță rezonabile, fără implicarea persoanelor din jur.
+Este interzisă prelungirea nejustificată a unui schimb de focuri, inițierea unei noi răpiri sau continuarea conflictului în interiorul unei secții de Poliție, al unui spital ori al altei locații protejate.
+O persoană nu poate folosi intenționat o zonă publică pentru a anula un conflict început anterior, însă partea adversă trebuie să evite punerea în pericol a civililor.
+Autoapărare
+Într-o zonă publică poate fi folosită o armă albă sau un Combat Pistol numai pentru apărarea vieții în fața unui pericol direct și imediat.
+Pentru folosirea Combat Pistol-ului este obligatorie deținerea unui permis de port-armă.
+Dacă amenințarea poate fi înlăturată fără deschiderea focului, jucătorul trebuie să evite folosirea forței letale.
+După încetarea pericolului, continuarea atacului nu mai este considerată autoapărare.
+Folosirea armelor de tip Sniper
+Armele de tip Sniper pot fi folosite numai în cadrul jafurilor bancare sau al unor acțiuni Roleplay foarte complexe, în baza unui motiv IC bine întemeiat.
+Folosirea unui Sniper în conflicte obișnuite, răpiri, reglări de conturi minore sau pentru atacarea unor persoane fără existența unui Roleplay complex este strict interzisă.
+Folosirea nejustificată a unei arme de tip Sniper se sancționează cu ban temporar de 3 zile.
+HARTA ZONELOR ESTE DISPONIBILĂ ÎN JOC FOLOSIND COMANDA /zone.
+41. BUG ABUSE:
+Bug Abuse reprezintă folosirea intenționată a unei erori a serverului pentru a obține bani, bunuri, avantaje, acces nepermis sau pentru a evita consecințele unei acțiuni Roleplay.
+Jucătorii care descoperă un bug au obligația de a opri imediat folosirea acestuia și de a-l raporta echipei Staff, oferind toate informațiile necesare pentru identificarea și rezolvarea problemei.
+
+➤ Este interzisă folosirea repetată a unui bug, indiferent de valoarea avantajului obținut.
+
+➤ Este interzisă păstrarea, transferarea sau ascunderea bunurilor și sumelor obținute prin exploatarea unui bug.
+
+➤ Este interzisă explicarea, distribuirea, divulgarea sau vânzarea unei metode de exploatare a unui bug către alți jucători.
+
+➤ Încurajarea, ajutarea sau participarea la exploatarea unui bug se sancționează similar cu folosirea directă a acestuia.
+Descoperirea accidentală a unui bug nu se sancționează dacă jucătorul se oprește imediat, nu obține sau nu păstrează beneficii și raportează situația unui membru Staff.
+
+➤ Exploatarea unui bug se sancționează cu Admin Jail 80 CK sau ban temporar între 7 și 30 de zile, în funcție de gravitate, prejudiciu și repetarea faptei.
+
+➤ Divulgarea sau vânzarea unui bug ori a metodei de exploatare se sancționează cu ban permanent, fără drept de plată.
+
+➤ Bunurile, banii și avantajele obținute prin Bug Abuse vor fi eliminate, iar echipa Staff poate aplica sancțiuni suplimentare în funcție de prejudiciul produs serverului sau economiei acestuia.
+42. RECLAMA SI ACTIVITATEA PE ALTE SERVERE DE ROLEPLAY:
+Este strict interzisă orice formă de promovare a unei comunități, a unui server, website sau proiect care nu deține un parteneriat oficial cu comunitatea PRO4KINGS.
+Această interdicție se aplică atât IC, cât și OOC și include:
+
+➤ trimiterea de linkuri, invitații sau date de conectare către alte servere;
+
+➤ promovarea prin chat, mesaje private, comunicare verbală, nickname, descriere sau alte mijloace;
+
+➤ invitarea ori încercarea de a convinge jucătorii să părăsească comunitatea PRO4KINGS pentru a se alătura alteia;
+
+➤ folosirea unor prescurtări, mesaje mascate sau aluzii cu scopul de a evita regulamentul;
+
+➤ realizarea reclamei prin intermediul altor persoane, al conturilor secundare sau al platformelor externe;
+
+➤ recrutarea membrilor comunității pentru alte servere, facțiuni sau proiecte.
+Menționarea unei alte comunități în cadrul unei conversații, fără intenție promoțională, nu se consideră automat reclamă. Contextul și scopul mesajului vor fi analizate de echipa Staff.
+Reclama intenționată, repetată sau realizată în masă se poate sancționa cu ban permanent, în funcție de gravitatea situației.
+Activitatea pe alte servere
+Jucătorii care nu fac parte dintr-o facțiune și nu dețin o funcție de încredere în cadrul comunității pot activa și pe alte servere, atât timp cât nu fac reclamă, nu recrutează jucători și nu prejudiciază comunitatea PRO4KINGS.
+Membrii unei facțiuni au obligația de a se dedica activității, dezvoltării și responsabilităților asumate în cadrul acesteia. Pe durata apartenenței la o facțiune, aceștia nu pot desfășura activitate pe alte servere de GTA 5 Roleplay.
+Membrii unei facțiuni care sunt surprinși activând pe alte servere pot fi excluși din facțiune, inclusiv prin excludere cu transfer, în funcție de situație, activitatea desfășurată și decizia conducerii.
+Conflict de interese
+Membrii Staff, liderii facțiunilor și persoanele care dețin grade sau funcții de încredere nu pot ocupa simultan funcții de Staff, conducere ori să activeze pe serverele altor comunități.
+Deținerea sau ascunderea unui astfel de grad, recrutarea jucătorilor, divulgarea informațiilor interne ori folosirea funcției deținute pentru prejudicierea comunității reprezintă abateri grave.
+În funcție de gravitate, se pot aplica următoarele sancțiuni:
+
+➤ eliminarea tuturor gradelor și funcțiilor deținute;
+
+➤ excluderea din facțiune, inclusiv cu transfer;
+
+➤ ștergerea beneficiilor;
+
+➤ wipe total sau parțial;
+
+➤ ban temporar sau permanent.
+43. HACK/FISIER MODIFICATE:
+Este strict interzisă utilizarea oricărui program, script, instrument, fișier sau procedeu care modifică funcționarea normală a jocului ori oferă un avantaj nejustificat față de ceilalți jucători.
+Programe Neautorizate
+Prin Hack sau program neautorizat se înțelege orice modificare externă care influențează precizia, vizibilitatea, deplasarea, poziționarea, identificarea jucătorilor sau alte mecanici ale jocului.
+Sunt incluse, fără a se limita la:
+
+➤ Aimbot, Silent Aim, Triggerbot, Wallhack sau ESP;
+
+➤ Speed Hack, Teleport, Freecam, God Mode sau alte modificări ale deplasării și poziționării;
+
+➤ No Recoil, No Spread, modificarea damage-ului sau a preciziei armelor;
+
+➤ injectoare, scripturi, macro-uri sau alte instrumente care automatizează ori facilitează acțiunile jucătorului;
+
+➤ orice alt program sau procedeu care oferă un avantaj neregulamentar.
+Fișiere Modificate
+Este interzisă utilizarea fișierelor sau modificărilor care influențează jocul și oferă un avantaj, precum:
+
+➤ Tracere sau efecte care facilitează observarea direcției gloanțelor;
+
+➤ No-Props sau fișiere care elimină obiecte, vegetație ori alte elemente ale hărții;
+
+➤ Modificări nepermise ale câmpului vizual — FOV;
+
+➤ Sunete modificate care facilitează identificarea poziției, armelor sau acțiunilor altor jucători;
+
+➤ Modificări ale texturilor, luminozității, efectelor sau vizibilității care oferă un avantaj;
+
+➤ Orice alte fișiere care îmbunătățesc artificial capacitatea de observare, reacție sau combat.
+Modificările exclusiv estetice sunt permise numai dacă nu influențează mecanicile jocului și nu oferă niciun avantaj.
+Jucătorii sunt responsabili pentru programele și fișierele existente sau active pe dispozitivul utilizat pentru conectarea la server. Necunoașterea provenienței acestora nu înlătură răspunderea.
+Verificarea PC-CHECK
+Jucătorii suspectați de utilizarea unor programe sau fișiere neautorizate pot fi supuși unei verificări, în conformitate cu Regulamentul PC-CHECK.
+Refuzul verificării, tergiversarea acesteia, închiderea jocului, ștergerea sau modificarea fișierelor și orice tentativă de ascundere ori evitare a verificării se sancționează conform regulamentului menționat.
+Verificările și sancțiunile rezultate în urma unui PC-CHECK pot fi gestionate numai de membrii autorizați ai echipei PRO4KINGS și ai echipei PC-CHECK.
+
+➤ Utilizarea unui Hack sau a unui program neautorizat se sancționează cu Blacklist în cadrul comunității.
+
+➤ Folosirea fișierelor modificate interzise se sancționează la prima abatere cu ban temporar de 14 zile.
+
+➤ Repetarea abaterii privind fișierele modificate se sancționează cu ban permanent.
+
+➤ Utilizarea unui Hack sau a fișierelor modificate interzise în timpul unui War se sancționează direct cu ban permanent, indiferent de antecedente.
+
+➤ Vânzarea, cumpărarea, deținerea în scopul utilizării sau distribuirea cheat-urilor, bypass-urilor și fișierelor interzise poate conduce la ban permanent și Blacklist.
+44. BAN EVADING:
+
+➤ Dacă aveți un BAN TEMPORAR sau PERMANENT pe serverul nostru, vă este STRICT INTERZIS să intrați de pe alte conturi pentru a continua să jucați. În cazul în care sunteți prinși, toate conturile implicate vor fi BANATE PERMANENT, fără posibilitatea de a achita unban-ul.
+45. AFACERI ILEGALE - TRANZACTII OOC:
+
+➤ O AFACERE ILEGALĂ reprezintă efectuarea oricărei plăți sau tranzacții OOC în schimbul unor bunuri ori avantaje IC, precum bani murdari, monede de sindicat, vehicule, obiecte ilegale sau alte bunuri din joc.
+
+➤ Cumpărarea, vânzarea sau intermedierea unor astfel de bunuri între jucători este STRICT INTERZISĂ și se sancționează cu WIPE + BLACKLIST, fără posibilitatea achitării unbanului.
+
+➤ Dacă doriți să achiziționați în mod oficial bani, Pro Coins, vehicule sau alte beneficii disponibile în magazinul comunității, trebuie să contactați fondatorul comunității. Orice jucător care vă propune o tranzacție OOC neautorizată trebuie raportat imediat echipei administrative.
+
+➤ Este STRICT INTERZIS să vă împrumutați, transferați, vindeți sau donați conturile ori averile către alți jucători, indiferent de motiv. În cazul unei reclamații sau al unei suspiciuni, administrația își rezervă dreptul de a efectua verificări.
+
+➤ În cazul în care verificările confirmă existența unor transferuri neautorizate, tranzacții OOC sau tentative de evitare a regulamentului, toate persoanele implicate riscă sancțiunea WIPE + BLACKLIST.
+46. ILEGALITĂȚI FĂRĂ MASCĂ:
+
+➤ Este STRICT INTERZIS să comiteți ilegalități premeditate fără a purta mască, precum jafuri, răpiri, omoruri sau alte acțiuni similare.
+
+➤ Încălcarea acestei reguli va fi sancționată cu „ILEGALITATE FĂRĂ MASCĂ”.
+47. LUPTA PALETO:
+
+➤ Organizațiile mafiote pot participa la următoarele confruntări: Paleto War, Capture the Flag și Bounty Rush. Fiecare mod de joc are un cooldown individual de o oră.
+
+➤ Pentru începerea unei confruntări este OBLIGATORIU să fie prezente minimum 8 persoane din aceeași mafie lângă NPC-ul corespunzător.
+
+➤ Este STRICT INTERZIS să ocupați sau să blocați confruntarea în timp ce așteptați sosirea celorlalți membri, dacă nu aveți deja minimum 8 participanți.
+CAPTURE THE FLAG
+
+➤ Fiecare echipă, Roșie sau Albastră, dispune de câte 10 stegulețe și de o bază proprie.
+
+➤ Obiectivul principal este capturarea stegulețelor echipei adverse. Eliminările au o importanță secundară.
+
+➤ Este STRICT INTERZIS să faceți camp în bazele echipelor.
+
+➤ Câștigă echipa care capturează cele mai multe stegulețe până la finalul confruntării.
+BOUNTY RUSH
+
+➤ Taxa de participare este de 150.000.000 $ pentru fiecare familie și trebuie achitată de către Lider sau Co-Lider.
+
+➤ Modul de desfășurare și regulile de joc sunt aceleași ca la Capture the Flag.
+
+➤ Familia câștigătoare primește suma de 300.000.000 $.
+
+➤ În cazul unei remize, fiecărei familii îi va fi returnată suma de 100.000.000 $.
+RECOMPENSE
+
+➤ Câștigătorii confruntărilor Paleto War și Capture the Flag pot primi bani murdari, bani curați, Monede de Sindicat, droguri sau alte recompense stabilite de sistem.
+
+➤ Recompensele vor fi acordate exclusiv membrilor care au participat efectiv la confruntare.
+REGULI GENERALE
+
+➤ Confruntarea se desfășoară după modelul unei arene de paintball. Participanții sunt considerați IC înainte și după luptă, respectiv OOC pe durata confruntării.
+
+➤ Puteți veni îmbrăcați după preferințe, însă în interiorul arenei veți primi automat o uniformă.
+
+➤ Este STRICT INTERZIS să scoateți sau să modificați hainele și încălțămintea impuse de sistem pe durata confruntării.
+
+➤ Este interzis să provocați conflicte, să jefuiți, să răpiți, să omorâți sau să manifestați un comportament toxic înainte ori după terminarea Luptei Paleto.
+
+➤ După încheierea confruntării, participanții trebuie să părăsească zona fără a crea alte conflicte sau probleme.
+
+➤ Nerespectarea regulilor se sancționează cu FRP, Mafia Warn și, după caz, cu sancțiunea pentru „Suferințe pe server IC înainte/după Lupta Paleto”, în funcție de gravitatea situației.
+48. ABUZUL DE MASINA BLINDATA
+
+➤ Vehiculele blindate pot fi folosite în conflicte armate, însă nu trebuie tratate ca fiind indestructibile.
+
+➤ Ocupanții sunt obligați să roleze frica și să țină cont de faptul că gloanțele pot pătrunde în interior și îi pot omorî.
+
+➤ Este STRICT INTERZIS să folosiți vehiculul blindat drept scut permanent, să staționați intenționat sub foc continuu sau să provocați adversarii bazându-vă exclusiv pe protecția acestuia.
+
+➤ Încălcarea acestei reguli se sancționează cu "Abuz de mașină blindată".
+49. ALTE REGULI:
+RECLAMAȚII ȘI DOVEZI
+
+➤ Orice reclamație trebuie să fie însoțită de dovezi și făcută în maximum 24 de ore de la producerea incidentului. Reclamațiile făcute după expirarea acestui termen nu vor fi luate în considerare, iar jucătorul reclamat nu va fi sancționat.
+
+➤ Pentru reclamarea unei greșeli de Roleplay este obligatorie prezentarea unei dovezi VIDEO și, în funcție de situație, a unei dovezi AUDIO.
+
+➤ Dovezile trebuie să surprindă întreaga desfășurare a acțiunii Roleplay, de la început până la final. Dovezile incomplete pot fi respinse.
+UTILIZAREA COMENZII /me
+
+➤ Este interzisă folosirea unor BIND-uri pentru comanda /me care conțin culori, emoji-uri sau alte elemente necorespunzătoare.
+
+➤ Nu aveți voie să spamați comanda /me. Dacă acțiunea a fost descrisă o dată, nu este necesar să o repetați.
+
+➤ Comanda /me este utilizată pentru descrierea unor stări sau acțiuni pe care caracterul nu le poate reda prin animațiile disponibile în joc.
+
+➤ Un mesaj /me trebuie:
+să conțină o singură acțiune sau stare;
+să fie formulat la persoana a III-a;
+să descrie clar acțiunea realizată.
+Exemple corecte:
+/me se uită în jur.
+/me își dă centura jos.
+/me este amețit.
+ZONA PRIMĂRIEI
+
+➤ Este interzis să staționați nejustificat în zona Primăriei.
+
+➤ Primăria trebuie vizitată doar pentru activitățile specifice zonei, precum obținerea unui loc de muncă, realizarea buletinului sau deschiderea unui Gift Box.
+
+➤ Este interzis să folosiți zona Primăriei pentru vânzarea vehiculelor, desfășurarea activităților ilegale sau alte scopuri nejustificate.
+ANUNȚURI COMERCIALE ȘI DARKWEB
+
+➤ În anunțurile comerciale sau publicate pe Darkweb este interzis:
+să folosiți caractere speciale în mod abuziv;
+să repetați numărul de telefon;
+să introduceți spații sau rânduri libere în exces;
+să încercați evidențierea nejustificată a anunțului.
+
+➤ Încălcarea acestei reguli se sancționează cu 30 CP, iar abaterile repetate pot fi sancționate cu WARN.
+COMPORTAMENTUL ÎN ZONELE POPULATE
+
+➤ Sancțiunile pentru RDM comis în aceste zone vor fi dublate, în funcție de gravitatea situației.
+Sandy;
+Grove Street;
+Vespucci.
+
+➤ Bătăile și injuriile care depășesc limita bunului-simț, desfășurate în Târgul Auto sau în alte zone populate, vor fi sancționate în funcție de gravitatea situației.
+
+➤ Toxicitatea, provocarea bătăilor și omorârea altor jucători sunt STRICT INTERZISE în următoarele zone:
+Târgul Auto;
+Paintball;
+CNN;
+Trucker;
+Curier;
+Casino;
+
+➤ Sancțiunile pentru abaterile comise în aceste zone vor fi dublate.
+TICKETE INUTILE
+
+➤ Orice ticket trebuie creat pentru un motiv real și bine întemeiat. Folosirea abuzivă a sistemului de ticket va fi sancționată cu Admin Jail – 50 de checkpoint-uri.
+
+➤ Sunt considerate tickete inutile, fără a se limita la acestea:
+„Salut, ticket gratis!”
+„Dă-mi și mie o armură, pentru că nu mai am!”
+„Dă-mi respawn, pentru că nu vreau să aștept timpul de respawn!”
+„Dă-mi un Faggio!”, atunci când garajul se află în apropiere.
+Cererea de revive după ce ați căzut de pe o clădire sau de pe un munte.
+Cererea de revive după ce ați murit într-un accident rutier provocat de nefolosirea centurii.
+Cererea de revive după ce ați murit din cauza lipsei de apă sau mâncare.
+
+➤ Jucătorii sunt responsabili să folosească centura de siguranță și să își procure apă, mâncare sau alte resurse necesare din locațiile disponibile pe server.
+FOLOSIREA PUNGII
+
+➤ Folosirea pungii pe capul unui jucător este permisă doar în cadrul unui Roleplay justificat, precum o răpire.
+
+➤ Este STRICT INTERZIS să puneți punga pe capul unei persoane moarte, indiferent de situație.
+BUG ABUSE ȘI FOLOSIREA TEXTURILOR
+
+➤ Este STRICT INTERZIS să vă poziționați în texturi, pereți sau alte locuri din care puteți vedea și ataca alți jucători, fără ca aceștia să vă poată observa sau ataca în mod normal.
+
+➤ Este interzis să trageți în jucători prin pereți, obiecte sau texturi.
+
+➤ Aceste acțiuni sunt considerate BUG ABUSE și se sancționează cu:
+BAN TEMPORAR pentru Bug Abuse sau 300 de checkpoint-uri, în funcție de gravitatea situației și de istoricul abaterilor jucătorului.
+TRANZACȚII CU VEHICULE
+
+➤ Prețul maxim pentru care poate fi vândut un vehicul este de 10.000.000.000 $.
+
+➤ Este interzis să oferiți suma de 10.000.000.000 $, împreună cu un alt vehicul sau alte bunuri, în schimbul unui vehicul.
+
+➤ Încercarea de a evita limita maximă prin tranzacții suplimentare, schimburi sau alte metode este interzisă.
+
+➤ În cazul încălcării acestei reguli, vehiculul implicat în tranzacție poate fi confiscat.
+
+ATENȚIE: Acumularea unui număr mare de sancțiuni poate duce la BANAREA PERMANENTĂ a jucătorului.
+
+ATENȚIE: Este STRICT INTERZIS să interpretați regulamentul în favoarea voastră sau să încercați să profitați de eventuale neclarități ori omisiuni.
+
+ATENȚIE: Fondatorul comunității își rezervă dreptul de a modifica regulamentul în orice moment, fără o notificare prealabilă.
+
+ATENȚIE: Vă recomandăm să recitiți regulamentul cel puțin o dată pe săptămână, pentru a fi la curent cu toate modificările.
+Întunecat
+Mod Layout
+Fluid
+Detașat
+Culoare bara de sus
+Întunecat
+Marcă
+Culoare meniu
+Întunecat
+Marcă
+Dimensiune bara laterală
+Implicit
+Compact
+Condenzat
+Vizualizare la trecerea mouse-ului
+Layout complet
+Ascuns
+Lățimea containerului
+Plen
+Împachetat
+Poziția Layout-ului
+Fixat
+Derulabil
+Resetează setări

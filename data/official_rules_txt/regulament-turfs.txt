@@ -1,0 +1,361 @@
+PRO4KINGS ROMÂNIA –
+
+REGULAMENT GENERAL WAR-URI
+INFORMAȚII ȘI TERMENI
+
+➤ OOT – Out of Turf, adică în afara teritoriului pe care se desfășoară War-ul.
+
+➤ IT – In Turf, adică în interiorul teritoriului pe care se desfășoară War-ul.
+
+➤ TURF – Teritoriul deținut de o anumită organizație mafiotă.
+
+➤ WAR – Războiul desfășurat între organizațiile mafiote pentru cucerirea unui Turf.
+DEFINIȚIA WAR-URILOR
+
+➤ War-urile reprezintă luptele desfășurate între organizațiile mafiote pe zonele marcate ale hărții, cu scopul de a cuceri teritoriile deținute de alte mafii.
+
+➤ Pe durata unei lupte pentru teritoriu nu se aplică regulile Roleplay prevăzute de Regulamentul IC, fiind aplicabile regulile speciale din prezentul regulament.
+PROGRAMUL WAR-URILOR
+
+➤ War-urile se desfășoară în fiecare zi de VINERI, în intervalul orar 20:00–23:15.
+SISTEMUL DE TURF-URI ȘI COMENZILE DISPONIBILE
+
+➤ Comanda [/turfs] poate fi folosită pentru vizualizarea tuturor Turf-urilor disponibile pe hartă.
+
+➤ Comanda [/borders] poate fi folosită pentru vizualizarea limitelor și delimitărilor unui Turf.
+
+➤ Comanda [/wars] poate fi folosită pentru vizualizarea tuturor War-urilor active.
+
+➤ Comanda [/cancelattack] poate fi folosită pentru anularea unui atac numai dacă scorul este 0 pentru ambele organizații.
+
+➤ Comanda [/attack] poate fi folosită pentru atacarea unui Turf.
+
+REGULAMENTUL WAR-URILOR
+GREȘELILE ACUMULATE DE O MAFIE
+
+➤ Dacă o mafie acumulează 5 sau mai multe greșeli în timpul unui War, aceasta va fi sancționată cu 1/3 MAFIA WARN, iar Turf-ul va fi înapoiat organizației adverse.
+
+➤ Dacă ambele mafii acumulează câte 5 sau mai multe greșeli în timpul aceluiași War, Turf-ul va deveni NEOCUPAT.
+
+➤ Dacă o mafie comite intenționat greșeli pentru a obține un avantaj și pentru a câștiga War-ul, Turf-ul va fi retras și acordat organizației care a fost dezavantajată.
+
+➤ Exemplu: Dacă scorul este 44–44, iar un membru al Mafiei X îi calcă intenționat cu vehiculul pe membrii Mafiei Y pentru a-i dezavantaja și pentru a câștiga, Turf-ul va fi acordat Mafiei Y.
+GREȘELILE ACUMULATE DE UN JUCĂTOR
+
+➤ Dacă un singur jucător acumulează 4 greșeli în cadrul aceluiași War, acesta va fi sancționat cu BAN TEMPORAR pentru 7 ZILE.
+INTRAREA ȘI IEȘIREA DIN TURF
+
+➤ Odată ce un jucător a intrat în Turf în timpul unui War activ, acesta nu mai are voie să iasă din raza teritoriului sub nicio formă.
+
+➤ Încălcarea acestei reguli aduce organizației din care face parte jucătorul 1/5 GREȘELI.
+ÎNCEPEREA WAR-ULUI
+
+➤ La începutul War-ului, toți membrii ambelor organizații sunt obligați să se afle la sol, în interiorul Turf-ului.
+
+➤ Lupta trebuie să înceapă de la sol.
+
+➤ După folosirea comenzii [/attack] și după ce toți participanții sunt prezenți la sol, jucătorii se pot urca pe clădirile accesibile care dispun de scară.
+
+➤ Startul oficial al luptei se dă numai atunci când un Responsabil Wars scrie pe chat mesajul „Start Turf X”.
+
+➤ Începerea luptei înainte de mesajul Responsabilului Wars poate fi sancționată cu 1/3 MAFIA WARN, în funcție de gravitatea situației.
+OBLIGAȚIA DE A PARTICIPA PÂNĂ LA FINAL
+
+➤ O mafie aflată în avantaj de puncte este obligată să continue să se prezinte pe Turf până la finalul War-ului.
+
+➤ Este interzis ca membrii organizației aflate în avantaj să nu mai vină pe Turf doar pentru a păstra scorul și pentru a câștiga.
+
+➤ Nerespectarea acestei reguli se sancționează cu 1/3 MAFIA WARN, iar Turf-ul va fi înapoiat organizației adverse.
+FOLOSIREA COMENZII [/DV]
+
+➤ Este interzisă folosirea comenzii [/dv] asupra altor persoane sau vehicule, indiferent dacă acestea se află IT sau OOT.
+FOLOSIREA VEHICULELOR PE TURF
+
+➤ Este interzis să vă plimbați prin Turf cu orice tip de vehicul.
+
+➤ Plimbarea cu vehiculul poate oferi informații despre pozițiile adversarilor și reprezintă un avantaj incorect, deoarece aceștia nu au voie să tragă în jucătorul aflat în vehicul.
+
+➤ După intrarea în Turf, jucătorii sunt obligați să își găsească o poziție cât mai repede posibil.
+
+➤ Nerespectarea acestei reguli aduce organizației din care face parte jucătorul 1/5 GREȘELI.
+FOLOSIREA TASTEI „L”
+
+➤ Este interzisă folosirea tastei „L” sau a oricărei funcții similare pentru obținerea unor avantaje pe Turf.
+
+➤ Exemplu: Folosirea tastei „L” pentru a vedea adversarii prin pereți.
+
+➤ Încălcarea acestei reguli se sancționează cu 1/5 GREȘELI și BAN TEMPORAR pentru 7 ZILE.
+ACCESORIILE VESTIMENTARE
+
+➤ Participanții la War nu au voie să poarte accesorii pe cap, corp, mâini sau în alte zone ale personajului.
+
+➤ Dacă un jucător este prins încălcând această regulă, organizația din care face parte va primi 1/3 MAFIA WARN.
+
+➤ Administratorii care spectează War-ul au dreptul să verifice în orice moment dacă jucătorii poartă accesorii sau articole vestimentare interzise.
+FILMAREA OBLIGATORIE
+
+➤ Filmarea integrală a fiecărui War este OBLIGATORIE.
+
+➤ Jucătorii care nu dețin filmarea War-ului vor fi sancționați cu BAN TEMPORAR pentru 14 ZILE.
+
+➤ Motive precum „am calculatorul slab” sau alte explicații asemănătoare nu reprezintă scuze acceptate.
+
+➤ Atunci când un membru HOS+ solicită filmarea, jucătorul este obligat să o prezinte.
+RĂMÂNEREA PE SERVER DUPĂ WAR
+
+➤ După încheierea War-ului, jucătorii care au participat sunt obligați să rămână conectați pe server timp de minimum 30 DE MINUTE.
+
+➤ Nu sunt acceptate scuze precum „mi-a picat internetul” sau „am primit crash”.
+
+➤ Orice deconectare în acest interval poate duce la BLACKLIST, deoarece jucătorul nu mai poate fi verificat și situația este considerată „Clean înainte de PC CHECK”.
+TRAGEREA DIN VEHICULE
+
+➤ Este interzis să trageți din interiorul unui vehicul sau în timp ce vă aflați pe un vehicul, inclusiv mașini și elicoptere.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+TRAGEREA OOT
+
+➤ Este interzis să trageți asupra adversarilor care se află OOT.
+
+➤ Este interzis să trageți din OOT către interiorul Turf-ului.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+FOLOSIREA CLĂDIRILOR
+
+➤ Jucătorii au voie să tragă numai de pe clădirile care pot fi accesate fără ajutorul unui vehicul.
+
+➤ Este permisă folosirea clădirilor care au scări și pot fi accesate în mod normal.
+
+➤ Este interzis să trageți de pe o clădire pe care ați ajuns printr-o metodă abuzivă.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+CAMPINGUL
+
+➤ Un jucător nu are voie să stea ascuns și inactiv în timpul War-ului pentru o perioadă mai mare de 1 MINUT.
+
+➤ Camp înseamnă să stați ascunși într-o poziție fără să participați activ și fără să realizați kill-uri.
+
+➤ Dacă un jucător își găsește o poziție bună, rămâne în aceasta și realizează kill-uri, situația nu este considerată Camp.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+LOVIREA ADVERSARILOR CU VEHICULUL
+
+➤ Este interzis să intrați intenționat cu vehiculul în membrii organizației adverse sau în vehiculele acestora pentru a-i dezavantaja.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI, iar jucătorul vinovat va primi BAN TEMPORAR pentru 7 ZILE.
+ARMELE PERMISE LA WAR
+
+➤ Este strict interzis să participați la War cu arme pe care organizația nu le deține la Casa Mafiei.
+
+➤ Această regulă include armele sau atașamentele de tip Fondator, Vindicator și alte beneficii asemănătoare.
+
+➤ Încălcarea acestei reguli se sancționează cu 1/3 MAFIA WARN.
+VEHICULELE BLINDATE
+
+➤ Vehiculele blindate sunt STRICT INTERZISE pe Turf în timpul unui War.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+NEPREZENTAREA LA WAR
+
+➤ Organizațiile care nu se prezintă la War vor fi sancționate cu 1/3 MAFIA WARN.
+
+➤ Dacă organizația care nu s-a prezentat trebuia să apere Turf-ul, teritoriul va fi acordat organizației adverse.
+COSTUMAȚIA MAFIEI
+
+➤ Fiecare participant trebuie să poarte costumația specifică organizației din care face parte.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+
+➤ Excepția se aplică numai atunci când un Responsabil War anunță că o anumită mafie trebuie să joace fără costumația obișnuită.
+MODIFICAREA FIȘIERELOR ȘI OBȚINEREA AVANTAJELOR
+
+➤ Este STRICT INTERZISĂ modificarea oricărui fișier al jocului care poate oferi avantaje în timpul War-ului.
+
+➤ Sunt interzise, fără a se limita la acestea:
+
+➤ Modificările de FOV;
+
+➤ Tracerele;
+
+➤ Kill Effect;
+
+➤ No Props;
+
+➤ No Day/Night;
+
+➤ Metodele de joc care folosesc joystick-ul pentru obținerea unor avantaje;
+
+➤ Metodele de limitare sau manipulare a vitezei conexiunii la internet;
+
+➤ Orice meniu, hack sau exploit.
+
+➤ Jucătorii prinși folosind astfel de modificări vor fi sancționați cu BAN PERMANENT sau BLACKLIST, în funcție de caz.
+
+➤ Turf-ul va fi înapoiat organizației adverse.
+FORȚAREA ADVERSARILOR SĂ GREȘEASCĂ
+
+➤ Este interzis să forțați membrii mafiei adverse să comită greșeli.
+
+➤ Exemplu: Realizarea intenționată de „bait” la limita Turf-ului pentru a-i determina pe adversari să tragă OOT.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+
+➤ Camparea jucătorilor aflați la limita Turf-ului nu mai este considerată greșeală.
+NUMĂRUL MINIM DE PARTICIPANȚI
+
+➤ Fiecare mafie este obligată să se prezinte pe Turf cu minimum 15 MEMBRI.
+
+➤ Nerespectarea acestei reguli se sancționează cu 1/3 MAFIA WARN.
+FOLOSIREA ACCESELOR DE CĂTRE ADMINISTRATORI
+
+➤ Administratorii nu au voie să își folosească accesele în scop personal pentru a ajuta organizația din care fac parte să câștige un War.
+
+➤ Încălcarea acestei reguli poate duce la pierderea gradelor Staff, în funcție de natura și gravitatea abaterilor.
+CAMPINGUL OOT
+
+➤ Membrii mafiilor nu au voie să campeze OOT pentru a intra ulterior împreună în Turf.
+
+➤ Dacă membrii unei organizații doresc să își aștepte colegii pentru a intra în același timp, aceștia trebuie să se întâlnească la Casa Mafiei și să plece împreună.
+
+➤ Este interzis să așteptați colegii la limita Turf-ului.
+
+➤ Încălcarea acestei reguli aduce organizației 1/5 GREȘELI.
+ROLEPLAY ÎNAINTE ȘI DUPĂ WAR
+
+➤ Este interzis să desfășurați Roleplay de mafiot cu membrii organizației adverse cu 30 DE MINUTE înainte sau după War.
+
+➤ Sunt incluse acțiuni precum omorurile, jafurile, răpirile, solicitarea taxelor și alte activități mafiote asemănătoare.
+
+➤ Încălcarea acestei reguli poate fi sancționată cu 1/3 MAFIA WARN.
+
+➤ Sancțiunea va fi stabilită în funcție de gravitatea situației, numărul persoanelor implicate și rangurile pe care acestea le dețin în mafie.
+OMORÂREA MEMBRILOR MAFIEI ADVERSE
+
+➤ Este interzis să omorâți intenționat membrii organizației adverse înainte sau după War.
+
+➤ Fiecare jucător care încalcă această regulă poate primi BAN TEMPORAR între 7 și 14 ZILE.
+
+➤ Organizația poate primi 1/3 MAFIA WARN, în funcție de gravitatea faptei, numărul persoanelor implicate și rangurile acestora.
+INJURIILE ȘI JIGNIRILE
+
+➤ Este interzis să înjurați, să jigniți sau să insultați membrii organizației adverse înainte sau după War.
+
+➤ Regula se aplică indiferent de metoda folosită, inclusiv Chat, Voice Chat sau alte mijloace de comunicare.
+
+➤ Fiecare jucător care încalcă această regulă poate primi BAN TEMPORAR între 14 și 30 DE ZILE.
+
+➤ Organizația poate primi 1/3 MAFIA WARN, în funcție de gravitatea faptei, numărul persoanelor implicate și rangurile acestora.
+COMPORTAMENTUL PE CAMERA DE SUPPORT
+
+➤ Jucătorii care ajung pe camera de Support după un War sunt obligați să folosească un limbaj adecvat și să respecte toate persoanele prezente.
+
+➤ Dacă unul sau mai mulți membri adresează injurii, insulte sau jigniri membrilor organizației adverse, la prima abatere vor primi MUTE.
+
+➤ La a doua abatere se va aplica TIMEOUT pentru 7 ZILE și BAN TEMPORAR între 7 și 14 ZILE pentru fiecare jucător implicat.
+
+➤ Organizația poate primi 1/3 MAFIA WARN, în funcție de gravitatea situației, numărul persoanelor implicate și rangurile acestora.
+PARTICIPAREA DE PE CONTUL ALTUI JUCĂTOR
+
+➤ Participarea la War-uri folosind contul unui alt jucător este STRICT INTERZISĂ.
+
+➤ Regula se aplică atât persoanei care intră pe contul altui jucător, cât și proprietarului contului.
+
+➤ La prima abatere, ambii jucători vor primi BAN TEMPORAR pentru 60 DE ZILE, fără drept de plată.
+
+➤ La a doua abatere, ambii jucători vor primi BLACKLIST.
+FOLOSIREA BENEFICIILOR PREMIUM ȘI SPONSOR
+
+➤ Pe întreaga durată a War-ului, participanții au voie să folosească din meniurile Premium sau Sponsor numai următoarele beneficii:
+
+➤ Mașina Premium sau Sponsor;
+
+➤ Elicopterul Premium sau Sponsor.
+
+➤ Este interzisă folosirea altor comenzi din aceste meniuri, inclusiv Revive, Hidratare sau orice altă funcție care poate influența scorul War-ului.
+
+➤ Încălcarea acestei reguli poate fi sancționată de la PREMIUM/SPONSOR WARN până la revocarea beneficiului.
+FOLOSIREA COMENZILOR PE TURF
+
+➤ Este interzisă folosirea oricărei comenzi pe Turf care poate influența acțiunea desfășurată.
+
+➤ Sunt interzise comenzile de tip Revive, Respawn, Spawn Vehicle, Teleport, scoaterea unei mașini Premium și alte comenzi asemănătoare.
+COMPORTAMENTUL PE TERITORIUL UNEI MAFII
+
+➤ Membrii unei mafii trebuie respectați atunci când se află pe propriul Turf.
+
+➤ Persoanele aflate pe teritoriul unei mafii trebuie să respecte indicațiile membrilor acesteia, dacă solicitările au legătură cu regulile teritoriului.
+
+➤ Exemplu: Dacă membrii mafiei spun că vehiculele nu sunt permise într-o plantație aflată pe Turf-ul lor, persoanele prezente trebuie să respecte această regulă.
+
+➤ Atunci când membrii unei mafii nu se află pe propriul teritoriu, aceștia trebuie tratați ca persoane obișnuite, deoarece ceilalți jucători nu au de unde să știe că sunt mafioți.
+OMORURILE PE TURF
+
+➤ Este interzis să omorâți o persoană pe Turf fără să aveți un motiv bine întemeiat.
+TAXELE DE PE TURF
+
+➤ Este interzis să solicitați o taxă mai mare decât cea stabilită de Sindicat.
+
+➤ Taxele sunt stabilite în cadrul ședințelor Sindicatului.
+
+➤ Pe un Turf, numai organizația care deține teritoriul are dreptul să solicite taxă.
+
+➤ Taxele pot fi solicitate numai în intervalul orar 08:00–20:00.
+
+➤ În cazul Sălii și al Barbutului, taxa poate fi solicitată și în intervalul 20:00–08:00.
+
+➤ Nerespectarea acestor reguli se sancționează cu FAIL ROLEPLAY.
+ACTIVITĂȚILE ILEGALE ÎNTRE MAFII
+
+➤ Activitățile ilegale desfășurate între organizațiile mafiote trebuie să aibă loc în zona Cerc Grove Street sau în zona Motel din Sandy.
+RĂPIRILE PE TURF
+
+➤ Este interzis să răpiți o persoană de pe propriul Turf fără să aveți un motiv bine întemeiat.
+PERSOANELE CARE AU PLĂTIT TAXA
+
+➤ Este interzis să omorâți o persoană după ce aceasta a achitat taxa solicitată.
+ABUZUL DE PROPRIETATE ASUPRA TURF-ULUI
+
+➤ Deținerea unui Turf nu oferă organizației dreptul de a face orice dorește pe teritoriul respectiv.
+
+➤ Acțiunile de tip RDM, VDM, DM și alte abateri asemănătoare rămân interzise.
+FOLOSIREA SNIPERULUI
+
+➤ Sniperul poate fi folosit numai în cadrul unui Roleplay complex și bine organizat.
+
+➤ Sunt incluse acțiuni precum jafurile, evenimentele Roleplay organizate și alte situații similare.
+SOLICITAREA TAXEI UNUI GRUP
+
+➤ Dacă pe Turf-ul unei mafii se află un grup format din 3, 4 sau 5 persoane, este STRICT INTERZIS ca un singur membru al mafiei să se ducă la acel grup pentru a solicita taxa.
+SALA – TERITORIUL NUMĂRUL 3
+
+➤ Teritoriul Sălii, identificat ca Teritoriul numărul 3, va fi disputat o dată la două săptămâni.
+
+ATENȚIE: Este STRICT INTERZIS să interpretați regulamentul în favoarea voastră sau să încercați să profitați de eventuale neclarități ori omisiuni.
+
+ATENȚIE: Fondatorul comunității își rezervă dreptul de a modifica regulamentul în orice moment, fără o notificare prealabilă.
+
+ATENȚIE: Vă recomandăm să recitiți regulamentul cel puțin o dată pe săptămână, pentru a fi la curent cu toate modificările.
+Întunecat
+Mod Layout
+Fluid
+Detașat
+Culoare bara de sus
+Întunecat
+Marcă
+Culoare meniu
+Întunecat
+Marcă
+Dimensiune bara laterală
+Implicit
+Compact
+Condenzat
+Vizualizare la trecerea mouse-ului
+Layout complet
+Ascuns
+Lățimea containerului
+Plen
+Împachetat
+Poziția Layout-ului
+Fixat
+Derulabil
+Resetează setări

@@ -1,0 +1,163 @@
+REGULAMENT PC CHECK
+
+INFORMAȚII GENERALE
+
+➤ Echipa PRO4KINGS, împreună cu echipa de PC CHECK, a stabilit următoarele reguli privind desfășurarea verificărilor de tip PC CHECK.
+
+➤ Toți jucătorii sunt obligați să coopereze pe întreaga durată a verificării și să respecte instrucțiunile oferite de membrii Staff și de membrii echipei de PC CHECK.
+SISTEMELE DE OPERARE PERSONALIZATE
+
+➤ Utilizarea unui sistem de operare personalizat sau modificat se face pe propria răspundere.
+
+➤ Jucătorii care folosesc sisteme de operare personalizate pot fi sancționați dacă serviciile necesare verificării sunt dezactivate, modificate sau imposibil de pornit.
+CHEAT-URI ȘI BYPASS-URI
+
+➤ Este STRICT INTERZIS să cumpărați, să vindeți, să dețineți, să folosiți sau să distribuiți cheat-uri, bypass-uri ori alte programe destinate evitării sistemelor de verificare.
+
+➤ Încălcarea acestei reguli poate duce la sancționarea contului, în funcție de dovezile identificate în timpul verificării.
+
+➤ Asocierea cu servere, grupuri sau comunități dedicate activităților de cheating este STRICT INTERZISĂ.
+
+➤ Jucătorilor le este recomandat să părăsească serverele de Discord și celelalte comunități de acest tip pentru a evita eventualele probleme în cadrul unui PC CHECK.
+GESTIONAREA
+
+SANCȚIUNILOR
+
+➤ Sancțiunile aplicate în urma unui PC CHECK sunt gestionate exclusiv de către Staff-ul PRO4KINGS, împreună cu echipa de PC CHECK.
+
+➤ Decizia finală privind rezultatul verificării și sancțiunea aplicabilă aparține persoanelor responsabile de verificare.
+COMPORTAMENTUL ÎNAINTE ȘI ÎN TIMPUL VERIFICĂRII
+
+➤ Ștergerea fișierelor înaintea unui PC CHECK este STRICT INTERZISĂ și poate duce la sancționarea jucătorului.
+
+➤ Neprezentarea pe camera de Support, întârzierea nejustificată sau tragerea de timp înaintea ori în timpul verificării sunt STRICT INTERZISE și pot duce la sancționare.
+
+➤ În momentul în care un jucător este chemat la PC CHECK, acesta nu are voie să închidă jocul.
+
+➤ Jucătorul trebuie să urmeze toate instrucțiunile oferite de persoanele responsabile de verificare.
+
+➤ Refuzarea unui PC CHECK poate fi sancționată cu BLACKLIST.
+SERVICII ȘI FUNCȚII CARE TREBUIE SĂ FIE DISPONIBILE
+
+➤ Următoarele servicii trebuie să fie active, funcționale sau să poată fi pornite în timpul verificării:
+
+➤ AppInfo;
+
+➤ DPS;
+
+➤ Dnscache;
+
+➤ PcaSvc;
+
+➤ SysMain;
+
+➤ DiagTrack;
+
+➤ EventLog;
+
+➤ BAM;
+
+➤ DusmSvc.
+Următoarele modificări sau dezactivări pot împiedica desfășurarea corectă a unui PC CHECK:
+
+➤ Dezactivarea BAM Inheritance;
+
+➤ Dezactivarea ActivitiesCache;
+
+➤ Dezactivarea Jump Lists;
+
+➤ Oprirea threadurilor din cadrul serviciilor.
+Jucătorii pot fi sancționați dacă serviciile sau funcțiile necesare sunt dezactivate, modificate ori imposibile de pornit.
+INFORMAȚII SUPLIMENTARE PRIVIND SERVICIILE
+
+➤ Jucătorii care nu sunt siguri dacă serviciile necesare funcționează corect pot deschide un tichet pentru verificarea acestora.
+
+➤ Dacă un jucător are deja un tichet deschis și aflat în așteptare, iar niciun membru al staffului nu a răspuns încă, acesta nu va fi sancționat pentru serviciile dezactivate menționate în tichet.
+
+➤ Tichetul trebuie să fi fost deschis înainte de solicitarea unui PC CHECK și trebuie să prezinte în mod real problema întâmpinată.
+
+➤ Utilizarea programelor de optimizare se face pe propria răspundere.
+
+➤ Sunt recomandate optimizările realizate manual, fără utilizarea unor programe care pot dezactiva servicii, șterge fișiere sau modifica elemente necesare verificării.
+
+➤ Dacă un jucător consideră că poate fi sancționat din cauza unor servicii dezactivate, acesta trebuie să deschidă un tichet pentru ca administratorii să încerce să remedieze problema.
+TENTATIVA DE BYPASS
+
+➤ Orice acțiune realizată cu scopul de a ascunde, șterge, modifica sau distruge dovezi înaintea unui PC CHECK poate fi considerată TENTATIVĂ DE BYPASS.
+
+➤ Sunt considerate tentative de bypass următoarele acțiuni:
+
+➤ Ștergerea fișierelor înaintea verificării;
+
+➤ Reinițializarea serviciilor;
+
+➤ Curățarea jurnalelor sistemului;
+
+➤ Curățarea sau modificarea regiștrilor;
+
+➤ Curățarea Event Logs;
+
+➤ Curățarea sau modificarea Prefetch-ului;
+
+➤ Folosirea aplicațiilor care șterg string-uri sau urme din memorie;
+
+➤ Distrugerea intenționată a fișierelor;
+
+➤ Curățarea conținutului din shell:recent;
+
+➤ Manipularea NvAPPTimestamps.
+APLICAȚII ȘI INSTRUMENTE FOLOSITE ÎNAINTE DE FIVEM
+
+➤ Tentativa de bypass poate include și interacțiunea, înainte de pornirea FiveM, cu următoarele aplicații sau instrumente:
+
+➤ Command Prompt – CMD;
+
+➤ Python;
+
+➤ PowerShell;
+
+➤ PowerShell ISE;
+
+➤ System Informer;
+
+➤ Process Hacker;
+
+➤ Registry Editor.
+
+➤ Utilizarea acestor instrumente înainte de pornirea FiveM poate fi analizată în cadrul verificării, în special atunci când există indicii că acestea au fost folosite pentru ștergerea, modificarea sau ascunderea unor dovezi.
+
+➤ Simpla existență a unei aplicații pe calculator nu înlocuiește verificarea efectuată de echipa de PC CHECK. Contextul utilizării și acțiunile identificate vor fi analizate de persoanele responsabile.
+
+ATENȚIE: Ne dorim o comunitate cât mai curată și un mediu de joc corect pentru toți jucătorii.
+
+ATENȚIE: Orice încercare de a obține avantaje nepermise, de a evita verificarea sau de a ascunde dovezi va fi sancționată conform regulamentului serverului.
+
+ATENȚIE: Este STRICT INTERZIS să interpretați regulamentul în favoarea voastră sau să încercați să profitați de eventuale neclarități ori omisiuni.
+
+ATENȚIE: Fondatorul comunității își rezervă dreptul de a modifica regulamentul în orice moment, fără o notificare prealabilă.
+
+ATENȚIE: Vă recomandăm să recitiți regulamentul cel puțin o dată pe săptămână, pentru a fi la curent cu toate modificările.
+Întunecat
+Mod Layout
+Fluid
+Detașat
+Culoare bara de sus
+Întunecat
+Marcă
+Culoare meniu
+Întunecat
+Marcă
+Dimensiune bara laterală
+Implicit
+Compact
+Condenzat
+Vizualizare la trecerea mouse-ului
+Layout complet
+Ascuns
+Lățimea containerului
+Plen
+Împachetat
+Poziția Layout-ului
+Fixat
+Derulabil
+Resetează setări

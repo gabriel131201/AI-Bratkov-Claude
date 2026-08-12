@@ -1,0 +1,153 @@
+INFORMAȚII GENERALE CAYO PERICO
+
+CE ESTE CAYO PERICO?
+
+➤ Cayo Perico este o insulă pe care organizațiile mafiote își desfășoară activitățile ilegale, sub controlul Sindicatului.
+
+➤ Pe insulă pot exista mafioți care solicită taxe sau verifică persoanele care își desfășoară activitatea în zonă.
+
+➤ De asemenea, pe insulă pot pătrunde civili sau hoți fără ca organizațiile mafiote să fie informate despre prezența acestora.
+
+➤ Cayo Perico este controlată exclusiv de organizațiile mafiote, fără influența civililor sau a gangurilor.
+
+REGULAMENT CAYO PERICO
+
+ACTIVITĂȚILE ILEGALE PE LOCAȚII
+
+➤ Pe Cayo Perico aveți voie să desfășurați activități ilegale într-o locație pe care nu o dețineți numai dacă membrii organizației care controlează locația respectivă nu sunt prezenți.
+
+➤ Încălcarea acestei reguli se sancționează cu FAIL ROLEPLAY.
+
+INTERVALUL PENTRU JAFURI
+
+➤ Intervalul orar în care sunt permise jafurile pe Cayo Perico este momentan indisponibil. În acest moment, jafurile pe Cayo Perico sunt INTERZISE.
+
+➤ Nerespectarea intervalului stabilit se sancționează cu FAIL ROLEPLAY.
+
+ACCESUL PE INSULĂ
+
+➤ La sosirea pe Cayo Perico, sunteți obligați să treceți pe la Vama Cayo.
+
+➤ Persoanele care aleg să pătrundă pe insulă fără să treacă pe la vamă își asumă toate consecințele IC care pot apărea.
+
+ZONE ÎN CARE JAFURILE ȘI RĂPIRILE SUNT INTERZISE
+
+➤ Este strict interzis să jefuiți, să răpiți sau să stați la pândă cu scopul de a jefui ori răpi persoane în următoarele zone:
+
+➤ Aeroport Cayo;
+
+➤ Disco Cayo;
+
+➤ Helipad Cayo;
+
+➤ Cranii Cayo;
+
+➤ Lingouri Cayo;
+
+➤ Toate locațiile de craftare;
+
+➤ Plantațiile de semințe, frunze și rășină;
+
+➤ Zonele în care se desfășoară luptele Cayo.
+
+➤ Încălcarea acestei reguli se sancționează cu FAIL ROLEPLAY.
+
+ATERIZAREA PE CAYO PERICO
+
+➤ Pe Cayo Perico aveți voie să aterizați numai în locurile special amenajate pentru aterizare.
+
+➤ Aterizarea în orice altă zonă se sancționează cu FAIL ROLEPLAY.
+
+REGULA DE FAKE MAFIA
+
+➤ Pe Cayo Perico nu se aplică regula de FAKE MAFIA.
+
+➤ Civilii pot forma grupuri mai mari de 3 persoane pentru a desfășura activități ilegale pe insulă.
+
+VEHICULELE PERMISE PE CAYO PERICO
+
+➤ Pe Cayo Perico pot fi folosite numai vehiculele disponibile în garajul "Cayo".
+
+➤ Este interzis să spawnați pe Cayo Perico vehicule din Sponsor sau Premium.
+
+➤ Încălcarea acestei reguli se sancționează cu 1/2 PREMIUM/SPONSOR WARN.
+
+ECHIPAMENTUL OBLIGATORIU
+
+➤ Persoanele care merg pe Cayo Perico sunt obligate să poarte o îmbrăcăminte corespunzătoare activităților desfășurate pe insulă.
+
+➤ Echipamentul specific pentru Cayo Perico trebuie să fie format din:
+
+➤ Cască, opțional;
+
+➤ Bluză cu mânecă lungă sau cu mânecă scurtă, cea cu mânecă scurtă fiind permisă numai pe timpul verii;
+
+➤ Vestă antiglonț;
+
+➤ Adidași, bocanci sau altă încălțăminte corespunzătoare.
+
+➤ Încălcarea regulii privind echipamentul se sancționează cu FAIL ROLEPLAY.
+
+EXCEPȚII PRIVIND ECHIPAMENTUL
+
+➤ De la regula echipamentului fac excepție:
+
+➤ Piloții, cât timp se află în zona aeroportului;
+
+➤ Membrii Sindicatului;
+
+➤ Membrii organizațiilor mafiote care participă la petreceri private organizate la Disco Cayo;
+
+➤ Membrii organizațiilor mafiote care participă la întâlniri organizate de Sindicat.
+
+CONTROLUL LOCAȚIILOR
+
+➤ Locațiile de pe Cayo Perico nu se câștigă prin războaie între organizațiile mafiote.
+
+➤ Controlul acestora se stabilește în cadrul ședințelor Sindicatului, unde locațiile vor fi scoase la licitație.
+
+CONFLICTELE DINTRE MAFII
+
+➤ Dacă o mafie are o problemă cu o altă mafie, membrii acesteia trebuie să contacteze un membru al Sindicatului.
+
+➤ Conflictele dintre organizațiile mafiote vor fi soluționate IC, prin intermediul Sindicatului.
+
+TAXELE DE PE CAYO PERICO
+
+➤ Taxa aplicabilă fiecărei locații de pe Cayo Perico este stabilită de Sindicat.
+
+➤ Organizațiile mafiote și persoanele care își desfășoară activitatea în locațiile respective sunt obligate să respecte taxele stabilite.
+
+ACTIVITATEA ORGANIZAȚIILOR MAFIOTE
+
+➤ Organizațiile mafiote trebuie să își desfășoare activitățile ilegale pe Cayo Perico, cu respectarea tuturor regulilor prevăzute în prezentul regulament.
+
+ATENȚIE: Este STRICT INTERZIS să interpretați regulamentul în favoarea voastră sau să încercați să profitați de eventuale neclarități ori omisiuni.
+
+ATENȚIE: Fondatorul comunității își rezervă dreptul de a modifica regulamentul în orice moment, fără o notificare prealabilă.
+
+ATENȚIE: Vă recomandăm să recitiți regulamentul cel puțin o dată pe săptămână, pentru a fi la curent cu toate modificările.
+Întunecat
+Mod Layout
+Fluid
+Detașat
+Culoare bara de sus
+Întunecat
+Marcă
+Culoare meniu
+Întunecat
+Marcă
+Dimensiune bara laterală
+Implicit
+Compact
+Condenzat
+Vizualizare la trecerea mouse-ului
+Layout complet
+Ascuns
+Lățimea containerului
+Plen
+Împachetat
+Poziția Layout-ului
+Fixat
+Derulabil
+Resetează setări

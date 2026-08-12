@@ -1,0 +1,166 @@
+REGULAMENT GENERAL CIVIL:
+OBLIGAȚII GENERALE
+
+➤ Toți civilii sunt obligați să citească și să respecte atât prezentul regulament, cât și
+
+REGULAMENTUL GENERAL AL SERVERULUI.
+
+➤ Civilii trebuie să se familiarizeze cu gameplay-ul serverului și să respecte atât regulile comunității, cât și ceilalți jucători.
+
+➤ Încercați să creați un Roleplay cât mai plăcut, complex și realist.
+CHAT ȘI COMPORTAMENT
+
+➤ Este interzis să scrieți colorat pe chatul global, să aveți numele colorat sau să trimiteți mesaje de tip SPAM.
+
+➤ Certurile NON-ROLEPLAY cu alți jucători trebuie evitate. Conflictele verbale sunt permise doar atunci când există un motiv Roleplay bine întemeiat și se desfășoară In Character.
+
+➤ Certurile NON-ROLEPLAY pot fi sancționate cu Admin Jail, checkpoint-uri sau chiar BAN, în funcție de gravitatea situației.
+ARME ȘI PERMISUL DE PORT-ARMĂ
+
+➤ Jucătorii nu au voie să cumpere, să dețină sau să utilizeze arme de foc ori arme albe înainte de a acumula minimum 25 de ore jucate pe server.
+
+➤ Un civil care deține permis de port-armă are dreptul să dețină un singur pistol și maximum 250 de gloanțe.
+
+➤ Depășirea acestei limite sau nerespectarea condițiilor permisului poate duce la confiscarea permisului de port-armă, confiscarea armelor și muniției, amendă și închisoare pentru deținere ilegală de arme de foc.
+
+➤ Permisul de port-armă nu garantează păstrarea armelor în inventar după respawn.
+ACTIVITĂȚI ILEGALE ȘI FAKE-MAFIA
+
+➤ Civilii pot participa la jafuri asupra magazinelor și ATM-urilor, cu condiția să respecte
+
+REGULAMENTUL DE JAFURI și să nu încalce regula privind FAKE-MAFIA.
+
+➤ FAKE-MAFIA reprezintă situația în care un grup format din mai mult de 5 civili desfășoară împreună activități ilegale, precum jafuri asupra jucătorilor, răpiri, jafuri la magazine, jafuri la bănci sau alte acțiuni ilegale organizate.
+JEFUIREA ALTOR JUCĂTORI
+
+➤ Un jucător poate fi jefuit de maximum 5.000.000 $.
+
+➤ În cazul în care asupra victimei sunt găsite bunuri ilegale, aveți voie să luați maximum jumătate din cantitatea totală a fiecărui tip de bun.
+
+➤ Exemplu: Dacă un jucător deține 100 de unități de cocaină și 150 de pastile LSD, pot fi luate maximum 50 de unități de cocaină și 75 de pastile LSD.
+
+➤ Jucătorii care au mai puțin de 25 de ore jucate nu pot fi jefuiți și nu au voie să jefuiască alți jucători.
+
+➤ Încălcarea acestor reguli se sancționează cu FAIL ROLEPLAY.
+
+➤ Este interzis să jefuiți documentele altor jucători (de exemplu: permisul de port-armă, buletinul, permisul de conducere, licența de pilot etc.).
+SPONSOR ȘI PREMIUM MENU
+
+➤ Jucătorii care beneficiază de Sponsor Menu sau Premium Menu nu au voie să abuzeze de comenzile disponibile.
+
+➤ Este interzisă folosirea comenzilor din aceste meniuri în timpul unei acțiuni Roleplay.
+
+➤ Folosirea meniului este permisă doar în situații excepționale, precum cazurile în care ați fost omorâți de un hacker, ați rămas blocați din cauza unui bug sau întâmpinați o problemă tehnică ce împiedică desfășurarea normală a jocului.
+
+➤ Orice folosire abuzivă a comenzilor va fi sancționată în funcție de gravitatea situației.
+COMENZI ȘI TASTE UTILE
+COMENZI ÎN CHAT
+
+➤ [/trade] – Deschide meniul prin care puteți face schimb de bani sau bunuri personale cu un alt jucător.
+
+➤ [/ore] – Afișează numărul total de ore jucate pe server.
+
+➤ [/collect] – Permite revendicarea beneficiului Premium zilnic.
+
+➤ [/trage] – Permite tragerea unui jucător inconștient sau mort din locul în care se află.
+
+➤ [/stats] – Afișează informațiile personajului, precum numele IC, orele jucate pe server și alte date ale contului.
+
+➤ [/chat] – Activează sau dezactivează afișarea chatului.
+
+➤ [/fps] – Activează sau dezactivează opțiunea de optimizare a FPS-urilor.
+
+➤ [/k] – Personajul se așază în genunchi.
+
+➤ [/hud] – Permite activarea sau dezactivarea elementelor afișate pe ecran, precum banii, viața, Payday-ul, radarul, Safe Zone și watermark-ul.
+
+➤ [/sleep] – Permite personajului să doarmă în locuința pe care o are închiriată, evitând deconectarea automată pentru AFK pe o perioadă mai îndelungată.
+
+➤ [/findhouse NUMĂR CASĂ] – Setează un waypoint către locuința corespunzătoare numărului introdus.
+
+➤ [/cancelrent] – Anulează chiria pe care o aveți.
+
+➤
+
+ATENȚIE: În momentul anulării chiriei, veți pierde hainele salvate în garderobă și toate bunurile depozitate în cufărul locuinței.
+
+➤ [/codpostal COD] – Setează un waypoint către locația corespunzătoare codului poștal introdus.
+
+➤ [/quitjob] – Permite demisia de la jobul deținut în acel moment.
+
+➤ [/map] – Deschide meniul hărții, unde puteți vizualiza zonele rău famate etc. de pe server.
+
+➤ [/debughud] – Reîncarcă sau repară HUD-ul atunci când anumite elemente nu sunt afișate corect.
+
+➤ [/carry] – Permite ridicarea și transportarea unui alt jucător.
+
+➤ [/barbut SUMĂ] – Inițiază un joc de barbut, folosind suma introdusă drept miză.
+
+➤ [/joinbarbut ID] – Permite acceptarea și alăturarea la jocul de barbut inițiat de jucătorul cu ID-ul introdus.
+
+➤ [/tinta] – Deschide meniul de țintă.
+
+➤ [/th] – Permite luarea pe la spate, cu arma la cap, a unui jucător DOAR cu arma Combat Pistol.
+
+➤ [/zone] – Permite afișarea zonelor rău-famate și semi-publice direct pe hartă și pe mini-hartă.
+TASTE UTILE
+
+➤ [F1] – Deschide inventarul.
+
+➤ [F2] – Încuie sau descuie vehiculul.
+
+➤ [F3] – Deschide meniul de animații.
+
+➤ [F9] – Deschide telefonul mobil.
+
+➤ [F10] – Deschide meniul FPS Boost, din care pot fi activate sau dezactivate diferite opțiuni de optimizare.
+
+➤ [F11] – Schimbă raza comunicării vocale între modurile Șoaptă, Normal și Strigăt.
+
+➤ Tasta „K” – Deschide meniul în care puteți găsi comenzile și informațiile utile ale serverului.
+
+➤ Tasta „X” – Realizează animația prin care personajul ridică mâinile.
+
+➤ Tasta „U” – Realizează animația prin care personajul leșină.
+
+➤ Tasta „N” – Activează comunicarea vocală In-Game cu ceilalți jucători.
+
+➤ Tasta „T” – Deschide chatul pentru comunicarea scrisă In-Game.
+
+➤ Tasta „L” – Afișează ID-urile jucătorilor din apropiere.
+
+➤ Tasta „CTRL” – Personajul se așază în poziția crouch.
+
+➤ Tasta „B”, atunci când sunteți pe jos – Personajul arată cu degetul.
+
+➤ Tasta „B”, atunci când sunteți într-un vehicul – Cuplați sau decuplați centura de siguranță.
+
+ATENȚIE: Este STRICT INTERZIS să interpretați regulamentul în favoarea voastră sau să încercați să profitați de eventuale neclarități ori omisiuni.
+
+ATENȚIE: Fondatorul comunității își rezervă dreptul de a modifica regulamentul în orice moment, fără o notificare prealabilă.
+
+ATENȚIE: Vă recomandăm să recitiți regulamentul cel puțin o dată pe săptămână, pentru a fi la curent cu toate modificările.
+Întunecat
+Mod Layout
+Fluid
+Detașat
+Culoare bara de sus
+Întunecat
+Marcă
+Culoare meniu
+Întunecat
+Marcă
+Dimensiune bara laterală
+Implicit
+Compact
+Condenzat
+Vizualizare la trecerea mouse-ului
+Layout complet
+Ascuns
+Lățimea containerului
+Plen
+Împachetat
+Poziția Layout-ului
+Fixat
+Derulabil
+Resetează setări
