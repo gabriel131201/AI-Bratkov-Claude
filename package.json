@@ -1,0 +1,48 @@
+{
+  "name": "pro4kings-intelligence",
+  "version": "1.0.0",
+  "description": "Discord AI Bot prototype for Pro4Kings FiveM server knowledge and rules support.",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.18.1"
+  },
+  "scripts": {
+    "test": "node scripts/checkRag.js && node scripts/checkRegressionQuestions.js",
+    "prestart": "node scripts/verifyDeploy.js",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "sync-rules": "node src/ruleSyncService.js",
+    "register-commands": "node src/commands/registerCommands.js",
+    "import-knowledge": "node src/importer/importKnowledge.js",
+    "check-rag": "node scripts/checkRag.js && node scripts/checkRegressionQuestions.js",
+    "check-regressions": "node scripts/checkRegressionQuestions.js",
+    "dashboard": "node src/dashboard/server.js"
+  },
+  "keywords": [
+    "discord",
+    "ai",
+    "fivem",
+    "pro4kings"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.26.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "node-cron": "^4.6.0",
+    "openai": "^4.77.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "overrides": {
+    "discord.js": {
+      "undici": "6.27.0"
+    },
+    "@discordjs/rest": {
+      "undici": "6.27.0"
+    }
+  }
+}
